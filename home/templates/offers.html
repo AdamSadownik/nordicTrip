@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+
+{% block content %}
+    {% for offer in object_list %}
+        Wycieczka do {{ offer.country }}
+    {% endfor %}
+{% endblock %}

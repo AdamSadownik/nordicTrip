@@ -1,0 +1,486 @@
+.solid-button-container {
+  display: flex;
+  position: relative;
+}
+.solid-button-button {
+  color: var(--dl-color-gray-white);
+  border: none;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-doubleunit);
+  border-radius: 50px;
+  padding-right: var(--dl-space-space-doubleunit);
+  padding-bottom: var(--dl-space-space-halfunit);
+  background-color: var(--dl-color-primary-100);
+}
+
+.component6-container {
+  display: flex;
+  position: relative;
+}
+.component6-image {
+  width: 222px;
+  height: 139px;
+  position: relative;
+  align-self: center;
+  object-fit: cover;
+}
+.component6-root-class-name {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+
+.finlandia-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.finlandia-top-container {
+  width: 100%;
+  height: 501px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url('file:///Users/alicjasipa/Downloads/pexels-ingo-joseph-1755078.jpg');
+  background-position: 0% 40%;
+}
+.finlandia-navbar {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-doubleunit);
+  max-width: 1000px;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.finlandia-burger-menu {
+  display: none;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.finlandia-burger-menu {
+  width: 24px;
+  height: 24px;
+}
+.finlandia-mobile-menu {
+  top: 0px;
+  flex: 0 0 auto;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  display: none;
+  padding: var(--dl-space-space-doubleunit);
+  z-index: 100;
+  position: absolute;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fff;
+}
+.finlandia-nav {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.finlandia-top {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-doubleunit);
+  flex-direction: row;
+  justify-content: space-between;
+}
+.finlandia-close-menu {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.finlandia-icon03 {
+  width: 24px;
+  height: 24px;
+}
+.finlandia-right-side {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.finlandia-links-container {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 16px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.finlandia-text {
+  margin-bottom: 8px;
+}
+.finlandia-text01 {
+  margin-bottom: 8px;
+}
+.finlandia-text02 {
+  margin-bottom: 8px;
+}
+.finlandia-link {
+  display: contents;
+}
+.finlandia-follow-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.finlandia-text04 {
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.finlandia-icons-container {
+  width: 100px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.finlandia-link01 {
+  display: contents;
+}
+.finlandia-icon05 {
+  width: 24px;
+  height: 24px;
+}
+.finlandia-link02 {
+  display: contents;
+}
+.finlandia-icon07 {
+  width: 24px;
+  height: 24px;
+}
+.finlandia-link03 {
+  display: contents;
+}
+.finlandia-icon09 {
+  width: 24px;
+  height: 24px;
+}
+.finlandia-container1 {
+  width: 1000px;
+  height: 147px;
+  display: flex;
+  position: relative;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.finlandia-navlink {
+  display: contents;
+}
+.finlandia-component1 {
+  text-decoration: none;
+}
+.finlandia-container2 {
+  left: 233px;
+  width: 160px;
+  bottom: 1px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.finlandia-select {
+  top: -3px;
+  left: -3px;
+  width: 160px;
+  height: 45px;
+  z-index: 10;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.finlandia-navlink1 {
+  left: 438px;
+  width: 144px;
+  bottom: 5px;
+  height: 45px;
+  position: absolute;
+  align-self: flex-start;
+  text-align: center;
+  text-decoration: none;
+}
+.finlandia-navlink2 {
+  left: 592px;
+  width: 133px;
+  bottom: 4px;
+  height: 46px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.finlandia-container3 {
+  flex: 0 0 auto;
+  width: auto;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.finlandia-navlink3 {
+  right: 81px;
+  width: 121px;
+  bottom: 4px;
+  height: 46px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.finlandia-text10 {
+  text-align: center;
+}
+.finlandia-navlink4 {
+  right: 4px;
+  width: 54px;
+  bottom: 4px;
+  height: 46px;
+  position: absolute;
+  text-decoration: none;
+}
+.finlandia-hero {
+  flex: 1;
+  width: 100%;
+  display: flex;
+  max-width: 1000px;
+  align-items: center;
+  padding-top: var(--dl-space-space-tripleunit);
+  padding-left: var(--dl-space-space-doubleunit);
+  padding-right: var(--dl-space-space-doubleunit);
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-tripleunit);
+  justify-content: space-between;
+}
+.finlandia-content-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.finlandia-main {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-quadruple);
+  padding-left: var(--dl-space-space-doubleunit);
+  padding-right: var(--dl-space-space-doubleunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-quadruple);
+  justify-content: flex-start;
+  background-color: #fdf6f6;
+}
+.finlandia-text18 {
+  width: 1052px;
+  height: 208px;
+  animation: inherit;
+  font-style: normal;
+  font-weight: 800;
+}
+.finlandia-text19 {
+  color: var(--dl-color-gray-500);
+  font-style: normal;
+  font-weight: 600;
+}
+.finlandia-footer {
+  color: var(--dl-color-gray-white);
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-tripleunit);
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: var(--dl-color-gray-black);
+}
+.finlandia-menu {
+  width: 100%;
+  display: flex;
+  max-width: 1000px;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.finlandia-links-container1 {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.finlandia-container4 {
+  display: flex;
+  align-items: flex-start;
+  margin-left: 100px;
+  flex-direction: column;
+}
+.finlandia-link04 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.finlandia-link05 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.finlandia-link06 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.finlandia-link07 {
+  text-decoration: none;
+}
+.finlandia-container5 {
+  display: flex;
+  align-items: flex-start;
+  margin-left: 100px;
+  flex-direction: column;
+}
+.finlandia-link08 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.finlandia-link09 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.finlandia-link10 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.finlandia-link11 {
+  text-decoration: none;
+}
+.finlandia-follow-container1 {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.finlandia-text26 {
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.finlandia-icons-container1 {
+  width: 100px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.finlandia-link12 {
+  display: contents;
+}
+.finlandia-icon11 {
+  fill: var(--dl-color-gray-white);
+  width: 24px;
+  height: 24px;
+}
+.finlandia-link13 {
+  display: contents;
+}
+.finlandia-icon13 {
+  fill: var(--dl-color-gray-white);
+  width: 24px;
+  height: 24px;
+}
+.finlandia-link14 {
+  display: contents;
+}
+.finlandia-icon15 {
+  fill: var(--dl-color-gray-white);
+  width: 24px;
+  height: 24px;
+}
+@media(max-width: 991px) {
+  .finlandia-hero {
+    padding-left: var(--dl-space-space-tripleunit);
+    padding-right: var(--dl-space-space-tripleunit);
+  }
+}
+@media(max-width: 767px) {
+  .finlandia-burger-menu {
+    display: flex;
+  }
+  .finlandia-hero {
+    justify-content: center;
+  }
+  .finlandia-content-container {
+    align-items: center;
+  }
+  .finlandia-text12 {
+    font-size: 2.5rem;
+  }
+  .finlandia-main {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .finlandia-menu {
+    flex-direction: column;
+  }
+  .finlandia-links-container1 {
+    margin-top: var(--dl-space-space-tripleunit);
+    margin-bottom: var(--dl-space-space-tripleunit);
+    justify-content: space-between;
+  }
+  .finlandia-container4 {
+    margin-left: 0px;
+  }
+}
+@media(max-width: 479px) {
+  .finlandia-text12 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .finlandia-subheading {
+    font-size: 1.3rem;
+    text-align: center;
+  }
+  .finlandia-links-container1 {
+    margin-top: var(--dl-space-space-doubleunit);
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .finlandia-link04 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .finlandia-link05 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .finlandia-link06 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .finlandia-link07 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .finlandia-container5 {
+    height: 100%;
+    align-items: flex-start;
+    margin-left: 50px;
+  }
+  .finlandia-link08 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .finlandia-link09 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .finlandia-link10 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .finlandia-link11 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .finlandia-follow-container1 {
+    margin-left: 0px;
+  }
+}

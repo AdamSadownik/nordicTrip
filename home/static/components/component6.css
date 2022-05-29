@@ -1,0 +1,16 @@
+.component6-container {
+  display: flex;
+  position: relative;
+}
+.component6-image {
+  width: 222px;
+  height: 139px;
+  position: relative;
+  align-self: center;
+  object-fit: cover;
+}
+.component6-root-class-name {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}

@@ -95,13 +95,22 @@
               <span></span>
             </span>
           </a>
+            <a href="{% url 'offers' %}" class="nordic-trip-home-navlink2 button">
+            <span>
+              <span>Oferty</span>
+              <span class="nordic-trip-home-text05"></span>
+              <span></span>
+            </span>
+          </a>
           <a href="app-page.html" class="nordic-trip-home-navlink3 button">
             0°
           </a>
-          <button class="nordic-trip-home-button1 button">
-            <span class="nordic-trip-home-text07">Zarejestruj</span>
-          </button>
-          <button class="nordic-trip-home-button2 button">Zaloguj</button>
+            {% if user.is_authenticated %}
+                <a href="{% url 'logout' %}" class="nordic-trip-home-button1 button">Wyloguj</a>
+            {% else %}
+              <a href="{% url 'sign_up' %}" class="nordic-trip-home-button1 button">Zarejestruj</a>
+              <a href="{% url 'login' %}" class="nordic-trip-home-button2 button">Zaloguj</a>
+            {% endif %}
         </div>
         {% block content %}
 

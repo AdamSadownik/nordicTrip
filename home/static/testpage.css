@@ -65,143 +65,190 @@
   position: absolute;
 }
 
-.szwecja-container {
+.outline-button-container {
+  display: flex;
+  position: relative;
+}
+.outline-button-button {
+  color: var(--dl-color-gray-black);
+  padding-top: var(--dl-space-space-unit);
+  border-color: var(--dl-color-primary-100);
+  border-width: 1px;
+  padding-left: var(--dl-space-space-doubleunit);
+  border-radius: 50px;
+  padding-right: var(--dl-space-space-doubleunit);
+  padding-bottom: var(--dl-space-space-unit);
+  background-color: var(--dl-color-gray-white);
+}
+
+.finland-container {
+  width: 300px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.finland-image {
+  width: 100%;
+  height: 182px;
+  object-fit: cover;
+}
+.finland-container1 {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-items: center;
+  padding-left: 1em;
+  flex-direction: column;
+}
+.finland-text {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.finland-text1 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.finland-text2 {
+  font-size: 12px;
+  max-width: 250px;
+  margin-bottom: var(--dl-space-space-doubleunit);
+}
+.finland-navlink {
+  display: contents;
+}
+.finland-component {
+  text-decoration: none;
+}
+@media(max-width: 767px) {
+  .finland-container {
+    width: 200px;
+  }
+}
+@media(max-width: 479px) {
+  .finland-container {
+    width: 300px;
+  }
+}
+
+.testpage-container {
   width: 100%;
   height: auto;
   display: flex;
   min-height: 100vh;
   align-items: center;
+  padding-top: var(--dl-space-space-tripleunit);
   flex-direction: column;
 }
-.szwecja-top-container {
-  width: 1104px;
-  height: 501px;
+.testpage-container1 {
+  width: 995px;
+  height: 97px;
   display: flex;
   position: relative;
-  align-items: center;
-  flex-direction: column;
-  background-size: cover;
-  background-image: url('file:///Users/alicjasipa/Downloads/pexels-ingo-joseph-1755078.jpg');
-  background-position: 0% 40%;
-}
-.szwecja-hero {
-  flex: 1;
-  left: 22px;
-  width: 652px;
-  bottom: 4px;
-  margin: auto;
-  display: flex;
-  position: absolute;
-  align-items: center;
-  padding-top: var(--dl-space-space-tripleunit);
-  padding-left: var(--dl-space-space-halfunit);
-  padding-right: var(--dl-space-space-halfunit);
-  flex-direction: row;
-  padding-bottom: var(--dl-space-space-tripleunit);
-  justify-content: space-between;
-  background-color: #ffffff;
-}
-.szwecja-content-container {
-  display: flex;
-  flex-direction: column;
-}
-.szwecja-container1 {
-  top: 57px;
-  left: -12px;
-  width: 1120px;
-  height: 108px;
-  display: flex;
-  position: absolute;
   flex-wrap: wrap;
-  align-self: center;
-  align-items: center;
+  align-items: flex-start;
   flex-direction: row;
-  justify-content: center;
+  justify-content: flex-end;
 }
-.szwecja-navlink {
-  left: 510px;
-  width: 125px;
-  bottom: 0px;
-  height: 45px;
-  display: flex;
+.testpage-navlink {
+  top: 48px;
+  left: 397px;
+  width: 157px;
+  height: 42px;
   position: absolute;
   align-self: flex-start;
   text-align: center;
   font-family: Poppins;
   border-style: solid;
-  flex-direction: row;
   text-decoration: none;
 }
-.szwecja-text07 {
-  align-self: center;
-  text-align: center;
-}
-.szwecja-navlink1 {
+.testpage-navlink1 {
   display: contents;
 }
-.szwecja-component {
+.testpage-component {
   text-decoration: none;
 }
-.szwecja-button {
-  left: 698px;
-  width: 125px;
-  bottom: 0px;
-  height: 45px;
-  position: absolute;
-  text-align: center;
-  text-decoration: none;
-}
-.szwecja-navlink2 {
-  left: 871px;
-  width: 125px;
-  bottom: 0px;
-  height: 45px;
-  position: absolute;
-  text-align: center;
-  text-decoration: none;
-}
-.szwecja-text13 {
-  text-align: center;
-}
-.szwecja-navlink3 {
-  top: 1px;
-  left: 1005px;
-  width: 101px;
-  height: 41px;
-  position: absolute;
-  font-size: 11px;
-  align-self: stretch;
-  font-style: normal;
-  text-align: center;
-  font-weight: 700;
-  text-decoration: none;
-}
-.szwecja-navlink4 {
-  left: 1030px;
-  width: 74px;
-  bottom: 0px;
-  height: 45px;
-  position: absolute;
-  text-align: center;
-  text-decoration: none;
-}
-.szwecja-select {
-  left: 312px;
-  width: 150px;
-  bottom: 0px;
+.testpage-container2 {
+  left: 233px;
+  width: 160px;
+  bottom: 1px;
   height: 45px;
   display: flex;
-  z-index: auto;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.testpage-select {
+  top: -2px;
+  right: -1px;
+  width: 160px;
+  height: 41px;
+  display: flex;
+  z-index: 10;
   position: absolute;
   text-align: center;
-  border-color: #000000;
   border-style: groove;
-  border-width: 1,5;
   text-decoration: none;
 }
-.szwecja-main {
-  width: 1098px;
-  height: 751px;
+.testpage-button {
+  top: 49px;
+  left: 559px;
+  width: 163px;
+  height: 41px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.testpage-button1 {
+  top: 49px;
+  right: 114px;
+  width: 158px;
+  height: 40px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.testpage-text05 {
+  text-align: center;
+}
+.testpage-navlink2 {
+  top: 49px;
+  right: 35px;
+  width: 75px;
+  height: 39px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.testpage-button2 {
+  top: 0px;
+  right: 38px;
+  width: 84px;
+  height: 32px;
+  margin: auto;
+  position: absolute;
+  font-size: 8px;
+  align-self: stretch;
+}
+.testpage-text07 {
+  text-align: center;
+}
+.testpage-button3 {
+  top: 0px;
+  right: 136px;
+  width: 70px;
+  height: 33px;
+  position: absolute;
+  font-size: 8px;
+  align-self: stretch;
+}
+.testpage-main {
+  width: 100%;
+  height: 966px;
   display: flex;
   align-items: center;
   padding-top: var(--dl-space-space-quadruple);
@@ -210,21 +257,74 @@
   flex-direction: column;
   padding-bottom: var(--dl-space-space-quadruple);
   justify-content: flex-start;
-  background-color: #fdf6f6;
+  background-color: var(--dl-color-gray-white);
 }
-.szwecja-text15 {
+.testpage-iframe {
+  width: 728px;
+  height: 200px;
+}
+.testpage-cards-container {
   width: 100%;
-  height: 208px;
-  animation: inherit;
-  font-style: normal;
-  font-weight: 800;
+  display: flex;
+  grid-gap: var(--dl-space-space-doubleunit);
+  flex-wrap: wrap;
+  max-width: 1000px;
+  margin-top: var(--dl-space-space-doubleunit);
+  align-items: flex-start;
+  margin-bottom: var(--dl-space-space-doubleunit);
+  flex-direction: row;
+  justify-content: space-between;
 }
-.szwecja-text18 {
-  color: var(--dl-color-gray-500);
-  font-style: normal;
-  font-weight: 600;
+.testpage-navlink3 {
+  display: contents;
 }
-.szwecja-footer {
+.testpage-component1 {
+  text-decoration: none;
+}
+.testpage-container3 {
+  width: 300px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.testpage-image {
+  width: 100%;
+  height: 182px;
+  object-fit: cover;
+}
+.testpage-container4 {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-items: center;
+  padding-left: 1em;
+  flex-direction: column;
+}
+.testpage-text08 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.testpage-text10 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.testpage-text11 {
+  font-size: 12px;
+  max-width: 250px;
+  margin-bottom: var(--dl-space-space-doubleunit);
+}
+.testpage-navlink4 {
+  display: contents;
+}
+.testpage-component2 {
+  text-decoration: none;
+}
+.testpage-footer {
   color: var(--dl-color-gray-white);
   width: 100%;
   display: flex;
@@ -234,7 +334,7 @@
   justify-content: center;
   background-color: var(--dl-color-gray-black);
 }
-.szwecja-menu {
+.testpage-menu {
   width: 100%;
   display: flex;
   max-width: 1000px;
@@ -242,171 +342,159 @@
   flex-direction: row;
   justify-content: space-between;
 }
-.szwecja-links-container {
+.testpage-links-container {
   display: flex;
   align-items: center;
   flex-direction: row;
   justify-content: space-between;
 }
-.szwecja-container2 {
+.testpage-container5 {
   display: flex;
   align-items: flex-start;
   margin-left: 100px;
   flex-direction: column;
 }
-.szwecja-link {
+.testpage-link {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.szwecja-link01 {
+.testpage-link01 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.szwecja-link02 {
+.testpage-link02 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.szwecja-link03 {
+.testpage-link03 {
   text-decoration: none;
 }
-.szwecja-container3 {
+.testpage-container6 {
   display: flex;
   align-items: flex-start;
   margin-left: 100px;
   flex-direction: column;
 }
-.szwecja-link04 {
+.testpage-link04 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.szwecja-link05 {
+.testpage-link05 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.szwecja-link06 {
+.testpage-link06 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.szwecja-link07 {
+.testpage-link07 {
   text-decoration: none;
 }
-.szwecja-follow-container {
+.testpage-follow-container {
   display: flex;
   align-items: center;
   margin-left: 50px;
   flex-direction: column;
   justify-content: space-between;
 }
-.szwecja-text31 {
+.testpage-text12 {
   padding-bottom: var(--dl-space-space-halfunit);
 }
-.szwecja-icons-container {
+.testpage-icons-container {
   width: 100px;
   display: flex;
   align-items: flex-start;
   flex-direction: row;
   justify-content: space-between;
 }
-.szwecja-link08 {
+.testpage-link08 {
   display: contents;
 }
-.szwecja-icon {
+.testpage-icon {
   fill: var(--dl-color-gray-white);
   width: 24px;
   height: 24px;
 }
-.szwecja-link09 {
+.testpage-link09 {
   display: contents;
 }
-.szwecja-icon2 {
+.testpage-icon2 {
   fill: var(--dl-color-gray-white);
   width: 24px;
   height: 24px;
 }
-.szwecja-link10 {
+.testpage-link10 {
   display: contents;
 }
-.szwecja-icon4 {
+.testpage-icon4 {
   fill: var(--dl-color-gray-white);
   width: 24px;
   height: 24px;
 }
 @media(max-width: 991px) {
-  .szwecja-hero {
-    padding-left: var(--dl-space-space-tripleunit);
-    padding-right: var(--dl-space-space-tripleunit);
+  .testpage-cards-container {
+    justify-content: center;
   }
 }
 @media(max-width: 767px) {
-  .szwecja-hero {
-    justify-content: center;
-  }
-  .szwecja-content-container {
-    align-items: center;
-  }
-  .szwecja-text {
-    font-size: 2.5rem;
-  }
-  .szwecja-main {
+  .testpage-main {
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
   }
-  .szwecja-menu {
+  .testpage-container3 {
+    width: 200px;
+  }
+  .testpage-menu {
     flex-direction: column;
   }
-  .szwecja-links-container {
+  .testpage-links-container {
     margin-top: var(--dl-space-space-tripleunit);
     margin-bottom: var(--dl-space-space-tripleunit);
     justify-content: space-between;
   }
-  .szwecja-container2 {
+  .testpage-container5 {
     margin-left: 0px;
   }
 }
 @media(max-width: 479px) {
-  .szwecja-text {
-    font-size: 2rem;
-    text-align: center;
+  .testpage-container3 {
+    width: 300px;
   }
-  .szwecja-subheading {
-    font-size: 1.3rem;
-    text-align: center;
-  }
-  .szwecja-links-container {
+  .testpage-links-container {
     margin-top: var(--dl-space-space-doubleunit);
     align-items: flex-start;
     justify-content: flex-start;
   }
-  .szwecja-link {
+  .testpage-link {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .szwecja-link01 {
+  .testpage-link01 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .szwecja-link02 {
+  .testpage-link02 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .szwecja-link03 {
+  .testpage-link03 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .szwecja-container3 {
+  .testpage-container6 {
     height: 100%;
     align-items: flex-start;
     margin-left: 50px;
   }
-  .szwecja-link04 {
+  .testpage-link04 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .szwecja-link05 {
+  .testpage-link05 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .szwecja-link06 {
+  .testpage-link06 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .szwecja-link07 {
+  .testpage-link07 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .szwecja-follow-container {
+  .testpage-follow-container {
     margin-left: 0px;
   }
 }

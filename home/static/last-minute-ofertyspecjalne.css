@@ -29,6 +29,16 @@
   bottom: 1px;
   position: absolute;
 }
+.component4-root-class-name1 {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+.component4-root-class-name2 {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
 
 .outline-button-container {
   display: flex;
@@ -95,6 +105,12 @@
   text-decoration: none;
 }
 
+
+.sztokholmszwecja-root-class-name3 {
+  top: 92px;
+  left: -52px;
+  position: absolute;
+}
 @media(max-width: 767px) {
   .sztokholmszwecja-container {
     width: 200px;
@@ -106,18 +122,19 @@
   }
 }
 
-.finland-container {
+.oslo-norwegia-container {
   width: 300px;
   display: flex;
   align-items: center;
   flex-direction: column;
 }
-.finland-image {
+.oslo-norwegia-image {
   width: 100%;
-  height: 182px;
+  height: 186px;
+  align-self: stretch;
   object-fit: cover;
 }
-.finland-container1 {
+.oslo-norwegia-container1 {
   width: 100%;
   display: flex;
   padding: var(--dl-space-space-unit);
@@ -125,36 +142,115 @@
   padding-left: 1em;
   flex-direction: column;
 }
-.finland-text {
+.oslo-norwegia-text {
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
   padding-bottom: var(--dl-space-space-halfunit);
 }
-.finland-text1 {
+.oslo-norwegia-text1 {
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
   padding-bottom: var(--dl-space-space-halfunit);
 }
-.finland-text2 {
+.oslo-norwegia-text2 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.oslo-norwegia-text3 {
   font-size: 12px;
   max-width: 250px;
   margin-bottom: var(--dl-space-space-doubleunit);
 }
-.finland-navlink {
+.oslo-norwegia-navlink {
   display: contents;
 }
-.finland-component {
+.oslo-norwegia-component {
   text-decoration: none;
 }
+
+
+.oslo-norwegia-root-class-name3 {
+  top: 91px;
+  right: 25px;
+  position: absolute;
+}
 @media(max-width: 767px) {
-  .finland-container {
+  .oslo-norwegia-container {
     width: 200px;
   }
 }
 @media(max-width: 479px) {
-  .finland-container {
+  .oslo-norwegia-container {
+    width: 300px;
+  }
+}
+
+.helsinki-finlandia-container {
+  width: 300px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.helsinki-finlandia-image {
+  width: 100%;
+  height: 182px;
+  object-fit: cover;
+}
+.helsinki-finlandia-container1 {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-items: center;
+  padding-left: 1em;
+  flex-direction: column;
+}
+.helsinki-finlandia-text {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.helsinki-finlandia-text1 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.helsinki-finlandia-text2 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.helsinki-finlandia-text3 {
+  font-size: 12px;
+  max-width: 250px;
+  margin-bottom: var(--dl-space-space-doubleunit);
+}
+.helsinki-finlandia-navlink {
+  display: contents;
+}
+.helsinki-finlandia-component {
+  text-decoration: none;
+}
+
+
+.helsinki-finlandia-root-class-name3 {
+  left: 25px;
+  bottom: 33px;
+  position: absolute;
+}
+@media(max-width: 767px) {
+  .helsinki-finlandia-container {
+    width: 200px;
+  }
+}
+@media(max-width: 479px) {
+  .helsinki-finlandia-container {
     width: 300px;
   }
 }
@@ -166,15 +262,17 @@
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
+  background-color: #fdf6f6;
 }
 .last-minute-ofertyspecjalne-top-container {
   width: 100%;
-  height: 600px;
+  height: 931px;
   display: flex;
+  opacity: 0.9;
   align-items: center;
   flex-direction: column;
   background-size: cover;
-  background-image: url("https://images.unsplash.com/photo-1484627147104-f5197bcd6651?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=1000");
+  background-image: url('https://images.unsplash.com/photo-1484627147104-f5197bcd6651?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=1500');
   background-position: 0% 40%;
 }
 .last-minute-ofertyspecjalne-navbar {
@@ -353,7 +451,7 @@
   text-align: center;
   text-decoration: none;
 }
-.last-minute-ofertyspecjalne-navlink2 {
+.last-minute-ofertyspecjalne-button {
   left: 574px;
   width: 133px;
   bottom: 3px;
@@ -370,7 +468,7 @@
   display: flex;
   flex-direction: column;
 }
-.last-minute-ofertyspecjalne-navlink3 {
+.last-minute-ofertyspecjalne-button1 {
   right: 80px;
   width: 121px;
   bottom: 4px;
@@ -382,7 +480,7 @@
 .last-minute-ofertyspecjalne-text10 {
   text-align: center;
 }
-.last-minute-ofertyspecjalne-navlink4 {
+.last-minute-ofertyspecjalne-navlink2 {
   right: 4px;
   width: 54px;
   bottom: 4px;
@@ -408,6 +506,19 @@
   align-items: flex-start;
   flex-direction: column;
 }
+.last-minute-ofertyspecjalne-navlink3 {
+  top: 78px;
+  right: 135px;
+  width: 101px;
+  height: 41px;
+  position: absolute;
+  font-size: 11px;
+  align-self: stretch;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  text-decoration: none;
+}
 .last-minute-ofertyspecjalne-main {
   width: 1116px;
   display: flex;
@@ -418,9 +529,7 @@
   flex-direction: column;
   padding-bottom: var(--dl-space-space-quadruple);
   justify-content: flex-start;
-}
-.last-minute-ofertyspecjalne-text14 {
-  color: var(--dl-color-gray-500);
+  background-color: #fdf6f6;
 }
 .last-minute-ofertyspecjalne-cards-container {
   width: 100%;
@@ -433,6 +542,12 @@
   margin-bottom: var(--dl-space-space-doubleunit);
   flex-direction: row;
   justify-content: space-between;
+}
+.last-minute-ofertyspecjalne-navlink4 {
+  display: contents;
+}
+.last-minute-ofertyspecjalne-component3 {
+  text-decoration: none;
 }
 .last-minute-ofertyspecjalne-footer {
   color: var(--dl-color-gray-white);
@@ -476,28 +591,21 @@
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.last-minute-ofertyspecjalne-link07 {
-  text-decoration: none;
-}
 .last-minute-ofertyspecjalne-container5 {
   display: flex;
   align-items: flex-start;
   margin-left: 100px;
   flex-direction: column;
 }
+.last-minute-ofertyspecjalne-link07 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
 .last-minute-ofertyspecjalne-link08 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
 .last-minute-ofertyspecjalne-link09 {
-  margin-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
-}
-.last-minute-ofertyspecjalne-link10 {
-  margin-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
-}
-.last-minute-ofertyspecjalne-link11 {
   text-decoration: none;
 }
 .last-minute-ofertyspecjalne-follow-container1 {
@@ -507,7 +615,7 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.last-minute-ofertyspecjalne-text15 {
+.last-minute-ofertyspecjalne-text14 {
   padding-bottom: var(--dl-space-space-halfunit);
 }
 .last-minute-ofertyspecjalne-icons-container1 {
@@ -517,7 +625,7 @@
   flex-direction: row;
   justify-content: space-between;
 }
-.last-minute-ofertyspecjalne-link12 {
+.last-minute-ofertyspecjalne-link10 {
   display: contents;
 }
 .last-minute-ofertyspecjalne-icon11 {
@@ -525,7 +633,7 @@
   width: 24px;
   height: 24px;
 }
-.last-minute-ofertyspecjalne-link13 {
+.last-minute-ofertyspecjalne-link11 {
   display: contents;
 }
 .last-minute-ofertyspecjalne-icon13 {
@@ -533,7 +641,7 @@
   width: 24px;
   height: 24px;
 }
-.last-minute-ofertyspecjalne-link14 {
+.last-minute-ofertyspecjalne-link12 {
   display: contents;
 }
 .last-minute-ofertyspecjalne-icon15 {
@@ -605,24 +713,18 @@
   .last-minute-ofertyspecjalne-link06 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .last-minute-ofertyspecjalne-link07 {
-    margin-bottom: var(--dl-space-space-halfunit);
-  }
   .last-minute-ofertyspecjalne-container5 {
     height: 100%;
     align-items: flex-start;
     margin-left: 50px;
   }
+  .last-minute-ofertyspecjalne-link07 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
   .last-minute-ofertyspecjalne-link08 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
   .last-minute-ofertyspecjalne-link09 {
-    margin-bottom: var(--dl-space-space-halfunit);
-  }
-  .last-minute-ofertyspecjalne-link10 {
-    margin-bottom: var(--dl-space-space-halfunit);
-  }
-  .last-minute-ofertyspecjalne-link11 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
   .last-minute-ofertyspecjalne-follow-container1 {

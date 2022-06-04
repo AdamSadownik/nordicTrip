@@ -16,6 +16,13 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import include, path
 
+from home.models import Country, City, Offer, Basket
+
+admin.site.register(Country)
+admin.site.register(City)
+admin.site.register(Offer)
+admin.site.register(Basket)
+
 urlpatterns = [
     path('', include('home.urls')),
     path('users/', include('users.urls')),

@@ -4,12 +4,22 @@
 }
 .component4-image {
   width: 222px;
-  height: 139px;
+  height: 89px;
   position: relative;
   align-self: center;
   object-fit: cover;
 }
 .component4-root-class-name {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+.component4-root-class-name1 {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+.component4-root-class-name2 {
   left: 3px;
   bottom: 1px;
   position: absolute;

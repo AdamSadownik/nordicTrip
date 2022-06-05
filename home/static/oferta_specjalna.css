@@ -199,15 +199,12 @@
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.app-page-link01 {
+.app-page-link1 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.app-page-link02 {
+.app-page-link2 {
   margin-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
-}
-.app-page-link03 {
   text-decoration: none;
 }
 .app-page-container4 {
@@ -216,19 +213,15 @@
   margin-left: 100px;
   flex-direction: column;
 }
-.app-page-link04 {
+.app-page-link3 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.app-page-link05 {
+.app-page-link4 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.app-page-link06 {
-  margin-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
-}
-.app-page-link07 {
+.app-page-link5 {
   text-decoration: none;
 }
 .app-page-follow-container {
@@ -248,7 +241,7 @@
   flex-direction: row;
   justify-content: space-between;
 }
-.app-page-link08 {
+.app-page-link6 {
   display: contents;
 }
 .app-page-icon {
@@ -256,7 +249,7 @@
   width: 24px;
   height: 24px;
 }
-.app-page-link09 {
+.app-page-link7 {
   display: contents;
 }
 .app-page-icon2 {
@@ -264,7 +257,7 @@
   width: 24px;
   height: 24px;
 }
-.app-page-link10 {
+.app-page-link8 {
   display: contents;
 }
 .app-page-icon4 {
@@ -314,13 +307,10 @@
   .app-page-link {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .app-page-link01 {
+  .app-page-link1 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .app-page-link02 {
-    margin-bottom: var(--dl-space-space-halfunit);
-  }
-  .app-page-link03 {
+  .app-page-link2 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
   .app-page-container4 {
@@ -328,16 +318,13 @@
     align-items: flex-start;
     margin-left: 50px;
   }
-  .app-page-link04 {
+  .app-page-link3 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .app-page-link05 {
+  .app-page-link4 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .app-page-link06 {
-    margin-bottom: var(--dl-space-space-halfunit);
-  }
-  .app-page-link07 {
+  .app-page-link5 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
   .app-page-follow-container {

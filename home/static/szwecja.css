@@ -64,6 +64,31 @@
   bottom: 1px;
   position: absolute;
 }
+.logowanie-root-class-name11 {
+  left: 140px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name12 {
+  left: 143px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name13 {
+  left: 140px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name14 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name15 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
 
 .szwecja-container {
   width: 100%;
@@ -72,6 +97,7 @@
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
+  
 }
 .szwecja-top-container {
   width: 1104px;
@@ -81,7 +107,7 @@
   align-items: center;
   flex-direction: column;
   background-size: cover;
-  background-image: url('file:///Users/alicjasipa/Downloads/pexels-ingo-joseph-1755078.jpg');
+  background-image: url('https://img.itinari.com/pages/images/original/bbde6890-3225-4de7-8ec7-5e376cdd71bc-istock-857505298.jpg?ch=DPR&dpr=2.625&w=1600&s=054b794f530a1ea723dc87b735d3e929');
   background-position: 0% 40%;
 }
 .szwecja-hero {
@@ -258,15 +284,12 @@
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.szwecja-link01 {
+.szwecja-link1 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.szwecja-link02 {
+.szwecja-link2 {
   margin-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
-}
-.szwecja-link03 {
   text-decoration: none;
 }
 .szwecja-container3 {
@@ -275,19 +298,15 @@
   margin-left: 100px;
   flex-direction: column;
 }
-.szwecja-link04 {
+.szwecja-link3 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.szwecja-link05 {
+.szwecja-link4 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.szwecja-link06 {
-  margin-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
-}
-.szwecja-link07 {
+.szwecja-link5 {
   text-decoration: none;
 }
 .szwecja-follow-container {
@@ -307,7 +326,7 @@
   flex-direction: row;
   justify-content: space-between;
 }
-.szwecja-link08 {
+.szwecja-link6 {
   display: contents;
 }
 .szwecja-icon {
@@ -315,7 +334,7 @@
   width: 24px;
   height: 24px;
 }
-.szwecja-link09 {
+.szwecja-link7 {
   display: contents;
 }
 .szwecja-icon2 {
@@ -323,7 +342,7 @@
   width: 24px;
   height: 24px;
 }
-.szwecja-link10 {
+.szwecja-link8 {
   display: contents;
 }
 .szwecja-icon4 {
@@ -380,13 +399,10 @@
   .szwecja-link {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .szwecja-link01 {
+  .szwecja-link1 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .szwecja-link02 {
-    margin-bottom: var(--dl-space-space-halfunit);
-  }
-  .szwecja-link03 {
+  .szwecja-link2 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
   .szwecja-container3 {
@@ -394,16 +410,13 @@
     align-items: flex-start;
     margin-left: 50px;
   }
-  .szwecja-link04 {
+  .szwecja-link3 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .szwecja-link05 {
+  .szwecja-link4 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .szwecja-link06 {
-    margin-bottom: var(--dl-space-space-halfunit);
-  }
-  .szwecja-link07 {
+  .szwecja-link5 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
   .szwecja-follow-container {

@@ -14,18 +14,18 @@
   background-color: var(--dl-color-gray-white);
 }
 
-.sztokholm\(szwecja\)-container {
+.helsinki\(finlandia\)-container {
   width: 300px;
   display: flex;
   align-items: center;
   flex-direction: column;
 }
-.sztokholm\(szwecja\)-image {
+.helsinki\(finlandia\)-image {
   width: 100%;
   height: 182px;
   object-fit: cover;
 }
-.sztokholm\(szwecja\)-container1 {
+.helsinki\(finlandia\)-container1 {
   width: 100%;
   display: flex;
   padding: var(--dl-space-space-unit);
@@ -33,74 +33,69 @@
   padding-left: 1em;
   flex-direction: column;
 }
-.sztokholm\(szwecja\)-text {
+.helsinki\(finlandia\)-text {
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
   padding-bottom: var(--dl-space-space-halfunit);
 }
-.sztokholm\(szwecja\)-text1 {
+.helsinki\(finlandia\)-text1 {
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
   padding-bottom: var(--dl-space-space-halfunit);
 }
-.sztokholm\(szwecja\)-text2 {
+.helsinki\(finlandia\)-text2 {
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
   padding-bottom: var(--dl-space-space-halfunit);
 }
-.sztokholm\(szwecja\)-text3 {
+.helsinki\(finlandia\)-text3 {
   font-size: 12px;
   max-width: 250px;
   margin-bottom: var(--dl-space-space-doubleunit);
 }
-.sztokholm\(szwecja\)-navlink {
+.helsinki\(finlandia\)-navlink {
   display: contents;
 }
-.sztokholm\(szwecja\)-component {
+.helsinki\(finlandia\)-component {
   text-decoration: none;
 }
 
 
-.sztokholm\(szwecja\)-root-class-name3 {
-  top: 92px;
-  left: -52px;
+.helsinki\(finlandia\)-root-class-name2 {
+  left: 25px;
+  bottom: 33px;
   position: absolute;
 }
-.sztokholm\(szwecja\)-root-class-name4 {
-  top: 94px;
-  left: 352px;
+.helsinki\(finlandia\)-root-class-name3 {
+  left: 25px;
+  bottom: 33px;
   position: absolute;
 }
-.sztokholm\(szwecja\)-root-class-name5 {
-  top: 92px;
-  left: -52px;
+.helsinki\(finlandia\)-root-class-name4 {
+  left: 25px;
+  bottom: 33px;
   position: absolute;
 }
-.sztokholm\(szwecja\)-root-class-name6 {
-  top: 520px;
-  left: 480px;
+.helsinki\(finlandia\)-root-class-name5 {
+  left: 25px;
+  bottom: 33px;
   position: absolute;
 }
-.sztokholm\(szwecja\)-root-class-name7 {
-  top: 92px;
-  left: -52px;
-  position: absolute;
-}
-.sztokholm\(szwecja\)-root-class-name8 {
-  top: 92px;
-  left: -52px;
+.helsinki\(finlandia\)-root-class-name6 {
+  left: 25px;
+  bottom: 33px;
   position: absolute;
 }
 @media(max-width: 767px) {
-  .sztokholm\(szwecja\)-container {
+  .helsinki\(finlandia\)-container {
     width: 200px;
   }
 }
 @media(max-width: 479px) {
-  .sztokholm\(szwecja\)-container {
+  .helsinki\(finlandia\)-container {
     width: 300px;
   }
 }

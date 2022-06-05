@@ -64,6 +64,31 @@
   bottom: 1px;
   position: absolute;
 }
+.logowanie-root-class-name11 {
+  left: 140px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name12 {
+  left: 143px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name13 {
+  left: 140px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name14 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name15 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
 
 .norwegia-container {
   width: 100%;
@@ -288,15 +313,12 @@
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.norwegia-link01 {
+.norwegia-link1 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.norwegia-link02 {
+.norwegia-link2 {
   margin-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
-}
-.norwegia-link03 {
   text-decoration: none;
 }
 .norwegia-container3 {
@@ -305,19 +327,15 @@
   margin-left: 100px;
   flex-direction: column;
 }
-.norwegia-link04 {
+.norwegia-link3 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.norwegia-link05 {
+.norwegia-link4 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.norwegia-link06 {
-  margin-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
-}
-.norwegia-link07 {
+.norwegia-link5 {
   text-decoration: none;
 }
 .norwegia-follow-container {
@@ -337,7 +355,7 @@
   flex-direction: row;
   justify-content: space-between;
 }
-.norwegia-link08 {
+.norwegia-link6 {
   display: contents;
 }
 .norwegia-icon {
@@ -345,7 +363,7 @@
   width: 24px;
   height: 24px;
 }
-.norwegia-link09 {
+.norwegia-link7 {
   display: contents;
 }
 .norwegia-icon2 {
@@ -353,7 +371,7 @@
   width: 24px;
   height: 24px;
 }
-.norwegia-link10 {
+.norwegia-link8 {
   display: contents;
 }
 .norwegia-icon4 {
@@ -410,13 +428,10 @@
   .norwegia-link {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .norwegia-link01 {
+  .norwegia-link1 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .norwegia-link02 {
-    margin-bottom: var(--dl-space-space-halfunit);
-  }
-  .norwegia-link03 {
+  .norwegia-link2 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
   .norwegia-container3 {
@@ -424,16 +439,13 @@
     align-items: flex-start;
     margin-left: 50px;
   }
-  .norwegia-link04 {
+  .norwegia-link3 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .norwegia-link05 {
+  .norwegia-link4 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .norwegia-link06 {
-    margin-bottom: var(--dl-space-space-halfunit);
-  }
-  .norwegia-link07 {
+  .norwegia-link5 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
   .norwegia-follow-container {

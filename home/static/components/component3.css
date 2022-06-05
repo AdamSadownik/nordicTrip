@@ -2,25 +2,15 @@
   display: flex;
   position: relative;
 }
-.component3-image {
-  width: 222px;
-  height: 139px;
+.component3-select {
+  width: 151px;
+  height: 43px;
+  display: flex;
+  z-index: 10;
   position: relative;
-  align-self: center;
-  object-fit: cover;
-}
-.component3-root-class-name {
-  left: 3px;
-  bottom: 1px;
-  position: absolute;
-}
-.component3-root-class-name1 {
-  left: 3px;
-  bottom: 1px;
-  position: absolute;
-}
-.component3-root-class-name2 {
-  left: 3px;
-  bottom: 1px;
-  position: absolute;
+  text-align: center;
+  border-color: #000000;
+  border-style: groove;
+  border-width: 1,5;
+  text-decoration: none;
 }

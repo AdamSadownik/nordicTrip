@@ -1,0 +1,782 @@
+.logowanie-container {
+  display: flex;
+  position: relative;
+}
+.logowanie-image {
+  width: 222px;
+  height: 82px;
+  position: relative;
+  align-self: center;
+  object-fit: cover;
+}
+.logowanie-root-class-name {
+  left: 143px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name1 {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name2 {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name3 {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name4 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name5 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name6 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name7 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name8 {
+  left: 15px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name9 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name10 {
+  left: 45px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name11 {
+  left: 140px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name12 {
+  left: 143px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name13 {
+  left: 140px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name14 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name15 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+
+.outline-button-container {
+  display: flex;
+  position: relative;
+}
+.outline-button-button {
+  color: var(--dl-color-gray-black);
+  padding-top: var(--dl-space-space-unit);
+  border-color: var(--dl-color-primary-100);
+  border-width: 1px;
+  padding-left: var(--dl-space-space-doubleunit);
+  border-radius: 50px;
+  padding-right: var(--dl-space-space-doubleunit);
+  padding-bottom: var(--dl-space-space-unit);
+  background-color: var(--dl-color-gray-white);
+}
+
+.helsinki-finlandia-container {
+  width: 300px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.helsinki-finlandia-image {
+  width: 100%;
+  height: 182px;
+  object-fit: cover;
+}
+.helsinki-finlandia-container1 {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-items: center;
+  padding-left: 1em;
+  flex-direction: column;
+}
+.helsinki-finlandia-text {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.helsinki-finlandia-text1 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.helsinki-finlandia-text2 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.helsinki-finlandia-text3 {
+  font-size: 12px;
+  max-width: 250px;
+  margin-bottom: var(--dl-space-space-doubleunit);
+}
+.helsinki-finlandia-navlink {
+  display: contents;
+}
+.helsinki-finlandia-component {
+  text-decoration: none;
+}
+
+
+.helsinki-finlandia-root-class-name3 {
+  left: 25px;
+  bottom: 33px;
+  position: absolute;
+}
+.helsinki-finlandia-root-class-name4 {
+  left: 25px;
+  bottom: 33px;
+  position: absolute;
+}
+.helsinki-finlandia-root-class-name2 {
+  left: 25px;
+  bottom: 33px;
+  position: absolute;
+}
+.helsinki-finlandia-root-class-name5 {
+  left: 25px;
+  bottom: 33px;
+  position: absolute;
+}
+.helsinki-finlandia-root-class-name6 {
+  left: 25px;
+  bottom: 33px;
+  position: absolute;
+}
+@media(max-width: 767px) {
+  .helsinki-finlandia-container {
+    width: 200px;
+  }
+}
+@media(max-width: 479px) {
+  .helsinki-finlandia-container {
+    width: 300px;
+  }
+}
+
+.sztokholmszwecja-container {
+  width: 300px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.sztokholmszwecja-image {
+  width: 100%;
+  height: 182px;
+  object-fit: cover;
+}
+.sztokholmszwecja-container1 {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-items: center;
+  padding-left: 1em;
+  flex-direction: column;
+}
+.sztokholmszwecja-text {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.sztokholmszwecja-text1 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.sztokholmszwecja-text2 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.sztokholmszwecja-text3 {
+  font-size: 12px;
+  max-width: 250px;
+  margin-bottom: var(--dl-space-space-doubleunit);
+}
+.sztokholmszwecja-navlink {
+  display: contents;
+}
+.sztokholmszwecja-component {
+  text-decoration: none;
+}
+
+
+.sztokholmszwecja-root-class-name3 {
+  top: 92px;
+  left: -52px;
+  position: absolute;
+}
+.sztokholmszwecja-root-class-name4 {
+  top: 94px;
+  left: 352px;
+  position: absolute;
+}
+.sztokholmszwecja-root-class-name5 {
+  top: 92px;
+  left: -52px;
+  position: absolute;
+}
+.sztokholmszwecja-root-class-name6 {
+  top: 520px;
+  left: 480px;
+  position: absolute;
+}
+.sztokholmszwecja-root-class-name7 {
+  top: 92px;
+  left: -52px;
+  position: absolute;
+}
+.sztokholmszwecja-root-class-name8 {
+  top: 92px;
+  left: -52px;
+  position: absolute;
+}
+@media(max-width: 767px) {
+  .sztokholmszwecja-container {
+    width: 200px;
+  }
+}
+@media(max-width: 479px) {
+  .sztokholmszwecja-container {
+    width: 300px;
+  }
+}
+
+.oslo-norwegia-container {
+  width: 300px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.oslo-norwegia-image {
+  width: 100%;
+  height: 186px;
+  align-self: stretch;
+  object-fit: cover;
+}
+.oslo-norwegia-container1 {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-items: center;
+  padding-left: 1em;
+  flex-direction: column;
+}
+.oslo-norwegia-text {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.oslo-norwegia-text1 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.oslo-norwegia-text2 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.oslo-norwegia-text3 {
+  font-size: 12px;
+  max-width: 250px;
+  margin-bottom: var(--dl-space-space-doubleunit);
+}
+.oslo-norwegia-navlink {
+  display: contents;
+}
+.oslo-norwegia-component {
+  text-decoration: none;
+}
+
+
+.oslo-norwegia-root-class-name3 {
+  top: 91px;
+  right: 25px;
+  position: absolute;
+}
+.oslo-norwegia-root-class-name4 {
+  top: 91px;
+  right: 25px;
+  position: absolute;
+}
+.oslo-norwegia-root-class-name2 {
+  top: 91px;
+  right: 25px;
+  position: absolute;
+}
+.oslo-norwegia-root-class-name5 {
+  top: 91px;
+  right: 25px;
+  position: absolute;
+}
+.oslo-norwegia-root-class-name6 {
+  top: 91px;
+  right: 25px;
+  position: absolute;
+}
+@media(max-width: 767px) {
+  .oslo-norwegia-container {
+    width: 200px;
+  }
+}
+@media(max-width: 479px) {
+  .oslo-norwegia-container {
+    width: 300px;
+  }
+}
+
+.nordic-trip-home-copy1-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.nordic-trip-home-copy1-top-container {
+  width: 100%;
+  height: 501px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url('file:///Users/alicjasipa/Downloads/pexels-ingo-joseph-1755078.jpg');
+  background-position: 0% 40%;
+}
+.nordic-trip-home-copy1-container1 {
+  top: 32px;
+  left: 76px;
+  width: 1051px;
+  height: 100px;
+  display: flex;
+  position: absolute;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.nordic-trip-home-copy1-navlink {
+  left: 468px;
+  width: 125px;
+  bottom: 0px;
+  height: 45px;
+  position: absolute;
+  align-self: flex-start;
+  text-align: center;
+  font-family: Poppins;
+  border-style: solid;
+  text-decoration: none;
+}
+.nordic-trip-home-copy1-navlink1 {
+  display: contents;
+}
+.nordic-trip-home-copy1-component {
+  text-decoration: none;
+}
+.nordic-trip-home-copy1-button {
+  left: 634px;
+  width: 125px;
+  bottom: 1px;
+  height: 45px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.nordic-trip-home-copy1-button1 {
+  right: 126px;
+  width: 125px;
+  bottom: 0px;
+  height: 45px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.nordic-trip-home-copy1-text05 {
+  text-align: center;
+}
+.nordic-trip-home-copy1-navlink2 {
+  top: 1px;
+  right: 15px;
+  width: 101px;
+  height: 41px;
+  position: absolute;
+  font-size: 11px;
+  align-self: stretch;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  text-decoration: none;
+}
+.nordic-trip-home-copy1-navlink3 {
+  right: 15px;
+  width: 74px;
+  bottom: 0px;
+  height: 45px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.nordic-trip-home-copy1-select {
+  left: 276px;
+  width: 150px;
+  bottom: 0px;
+  height: 45px;
+  display: flex;
+  z-index: auto;
+  position: absolute;
+  text-align: center;
+  border-color: #000000;
+  border-style: groove;
+  border-width: 1,5;
+  text-decoration: none;
+}
+.nordic-trip-home-copy1-hero {
+  flex: 1;
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 1000px;
+  padding-top: var(--dl-space-space-tripleunit);
+  padding-left: var(--dl-space-space-doubleunit);
+  padding-right: var(--dl-space-space-doubleunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-tripleunit);
+  justify-content: center;
+}
+.nordic-trip-home-copy1-content-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.nordic-trip-home-copy1-container2 {
+  top: 280px;
+  flex: 0 0 auto;
+  right: -27px;
+  width: 985px;
+  height: 112px;
+  display: flex;
+  position: absolute;
+  margin-left: var(--dl-space-space-unit);
+  margin-right: var(--dl-space-space-unit);
+  flex-direction: column;
+}
+.nordic-trip-home-copy1-textinput {
+  top: 43px;
+  left: 33px;
+  width: 180px;
+  height: 40px;
+  position: absolute;
+  align-self: stretch;
+}
+.nordic-trip-home-copy1-text07 {
+  top: 12px;
+  left: 524px;
+  position: absolute;
+}
+.nordic-trip-home-copy1-text08 {
+  top: 10px;
+  left: 274px;
+  position: absolute;
+}
+.nordic-trip-home-copy1-textinput1 {
+  top: 40px;
+  left: 270px;
+  width: 180px;
+  height: 40px;
+  position: absolute;
+}
+.nordic-trip-home-copy1-textinput2 {
+  top: 41px;
+  left: 521px;
+  width: 180px;
+  height: 40px;
+  position: absolute;
+}
+.nordic-trip-home-copy1-button2 {
+  top: 38px;
+  right: 124px;
+  width: 105px;
+  height: 41px;
+  position: absolute;
+  text-align: center;
+  background-color: #306d18;
+}
+.nordic-trip-home-copy1-text10 {
+  top: 9px;
+  left: 39px;
+  position: absolute;
+}
+.nordic-trip-home-copy1-main {
+  width: 1001px;
+  height: 734px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-top: var(--dl-space-space-quadruple);
+  padding-left: var(--dl-space-space-doubleunit);
+  padding-right: var(--dl-space-space-doubleunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-quadruple);
+  justify-content: center;
+  background-color: #fdf6f6;
+}
+.nordic-trip-home-copy1-cards-container {
+  top: 108px;
+  left: -1px;
+  width: 100%;
+  height: 531px;
+  margin: auto;
+  display: flex;
+  grid-gap: var(--dl-space-space-doubleunit);
+  position: absolute;
+  flex-wrap: wrap;
+  max-width: 1000px;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.nordic-trip-home-copy1-navlink4 {
+  display: contents;
+}
+.nordic-trip-home-copy1-component1 {
+  text-decoration: none;
+}
+.nordic-trip-home-copy1-container3 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.nordic-trip-home-copy1-text11 {
+  font-size: 29px;
+  align-self: flex-start;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+}
+.nordic-trip-home-copy1-navlink5 {
+  display: contents;
+}
+.nordic-trip-home-copy1-component2 {
+  text-decoration: none;
+}
+.nordic-trip-home-copy1-navlink6 {
+  display: contents;
+}
+.nordic-trip-home-copy1-component3 {
+  text-decoration: none;
+}
+.nordic-trip-home-copy1-footer {
+  color: var(--dl-color-gray-white);
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-tripleunit);
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: var(--dl-color-gray-black);
+}
+.nordic-trip-home-copy1-menu {
+  width: 100%;
+  display: flex;
+  max-width: 1000px;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.nordic-trip-home-copy1-links-container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.nordic-trip-home-copy1-container4 {
+  display: flex;
+  align-items: flex-start;
+  margin-left: 100px;
+  flex-direction: column;
+}
+.nordic-trip-home-copy1-link {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.nordic-trip-home-copy1-link1 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.nordic-trip-home-copy1-link2 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.nordic-trip-home-copy1-container5 {
+  display: flex;
+  align-items: flex-start;
+  margin-left: 100px;
+  flex-direction: column;
+}
+.nordic-trip-home-copy1-link3 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.nordic-trip-home-copy1-link4 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.nordic-trip-home-copy1-link5 {
+  text-decoration: none;
+}
+.nordic-trip-home-copy1-follow-container {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.nordic-trip-home-copy1-text12 {
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.nordic-trip-home-copy1-icons-container {
+  width: 100px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.nordic-trip-home-copy1-link6 {
+  display: contents;
+}
+.nordic-trip-home-copy1-icon {
+  fill: var(--dl-color-gray-white);
+  width: 24px;
+  height: 24px;
+}
+.nordic-trip-home-copy1-link7 {
+  display: contents;
+}
+.nordic-trip-home-copy1-icon2 {
+  fill: var(--dl-color-gray-white);
+  width: 24px;
+  height: 24px;
+}
+.nordic-trip-home-copy1-link8 {
+  display: contents;
+}
+.nordic-trip-home-copy1-icon4 {
+  fill: var(--dl-color-gray-white);
+  width: 24px;
+  height: 24px;
+}
+@media(max-width: 991px) {
+  .nordic-trip-home-copy1-hero {
+    padding-left: var(--dl-space-space-tripleunit);
+    padding-right: var(--dl-space-space-tripleunit);
+  }
+  .nordic-trip-home-copy1-cards-container {
+    justify-content: center;
+  }
+}
+@media(max-width: 767px) {
+  .nordic-trip-home-copy1-hero {
+    justify-content: center;
+  }
+  .nordic-trip-home-copy1-content-container {
+    align-items: center;
+  }
+  .nordic-trip-home-copy1-main {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .nordic-trip-home-copy1-menu {
+    flex-direction: column;
+  }
+  .nordic-trip-home-copy1-links-container {
+    margin-top: var(--dl-space-space-tripleunit);
+    margin-bottom: var(--dl-space-space-tripleunit);
+    justify-content: space-between;
+  }
+  .nordic-trip-home-copy1-container4 {
+    margin-left: 0px;
+  }
+}
+@media(max-width: 479px) {
+  .nordic-trip-home-copy1-links-container {
+    margin-top: var(--dl-space-space-doubleunit);
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .nordic-trip-home-copy1-link {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .nordic-trip-home-copy1-link1 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .nordic-trip-home-copy1-link2 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .nordic-trip-home-copy1-container5 {
+    height: 100%;
+    align-items: flex-start;
+    margin-left: 50px;
+  }
+  .nordic-trip-home-copy1-link3 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .nordic-trip-home-copy1-link4 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .nordic-trip-home-copy1-link5 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .nordic-trip-home-copy1-follow-container {
+    margin-left: 0px;
+  }
+}

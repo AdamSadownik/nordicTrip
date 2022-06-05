@@ -1,0 +1,108 @@
+.logowanie-container {
+  display: flex;
+  position: relative;
+}
+.logowanie-image {
+  width: 222px;
+  height: 82px;
+  position: relative;
+  align-self: center;
+  object-fit: cover;
+}
+.logowanie-root-class-name {
+  left: 143px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name1 {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name2 {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name3 {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name4 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name5 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name6 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name7 {
+  top: 36px;
+  left: 364px;
+  position: static;
+  align-self: center;
+}
+.logowanie-root-class-name8 {
+  left: 15px;
+  bottom: 0px;
+  position: static;
+  align-self: flex-end;
+  margin-left: 25px;
+}
+.logowanie-root-class-name9 {
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  position: static;
+  align-self: flex-end;
+  margin-left: 25px;
+}
+.logowanie-root-class-name10 {
+  left: 45px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name11 {
+  left: 140px;
+  bottom: 1px;
+  position: static;
+  align-self: flex-end;
+  margin-left: 100px;
+  margin-right: mixed;
+}
+.logowanie-root-class-name12 {
+  left: 143px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name13 {
+  left: 140px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name14 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name15 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name16 {
+  left: 140px;
+  bottom: 1px;
+  position: static;
+  align-self: flex-end;
+  margin-left: 100px;
+  margin-right: mixed;
+}

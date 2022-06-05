@@ -1,0 +1,10 @@
+.component1-container {
+  display: flex;
+  position: relative;
+}
+.component1-select {
+  width: 160px;
+  height: 45px;
+  text-align: center;
+  text-decoration: none;
+}

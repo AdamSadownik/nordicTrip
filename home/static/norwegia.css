@@ -1,0 +1,454 @@
+.logowanie-container {
+  display: flex;
+  position: relative;
+}
+.logowanie-image {
+  width: 222px;
+  height: 82px;
+  position: relative;
+  align-self: center;
+  object-fit: cover;
+}
+.logowanie-root-class-name {
+  left: 143px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name1 {
+  left: 143px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name2 {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name3 {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name4 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name5 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name6 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name7 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name8 {
+  left: 15px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name9 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name10 {
+  left: 45px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name11 {
+  left: 140px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name12 {
+  left: 143px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name13 {
+  left: 140px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name14 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name15 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+
+.norwegia-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.norwegia-top-container {
+  width: 100%;
+  height: 501px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url('file:///Users/alicjasipa/Downloads/pexels-ingo-joseph-1755078.jpg');
+  background-position: 0% 40%;
+}
+.norwegia-container1 {
+  top: 32px;
+  left: 76px;
+  width: 1051px;
+  height: 100px;
+  display: flex;
+  position: absolute;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.norwegia-navlink {
+  left: 468px;
+  width: 125px;
+  bottom: 0px;
+  height: 45px;
+  position: absolute;
+  align-self: flex-start;
+  text-align: center;
+  font-family: Poppins;
+  border-style: solid;
+  text-decoration: none;
+}
+.norwegia-navlink1 {
+  display: contents;
+}
+.norwegia-component {
+  text-decoration: none;
+}
+.norwegia-button {
+  left: 634px;
+  width: 125px;
+  bottom: 1px;
+  height: 45px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.norwegia-button1 {
+  right: 126px;
+  width: 125px;
+  bottom: 0px;
+  height: 45px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.norwegia-text05 {
+  text-align: center;
+}
+.norwegia-navlink2 {
+  top: 1px;
+  right: 15px;
+  width: 101px;
+  height: 41px;
+  position: absolute;
+  font-size: 11px;
+  align-self: stretch;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  text-decoration: none;
+}
+.norwegia-navlink3 {
+  right: 15px;
+  width: 74px;
+  bottom: 0px;
+  height: 45px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.norwegia-select {
+  left: 276px;
+  width: 150px;
+  bottom: 0px;
+  height: 45px;
+  display: flex;
+  z-index: auto;
+  position: absolute;
+  text-align: center;
+  border-color: #000000;
+  border-style: groove;
+  border-width: 1,5;
+  text-decoration: none;
+}
+.norwegia-hero {
+  flex: 1;
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 1000px;
+  padding-top: var(--dl-space-space-tripleunit);
+  padding-left: var(--dl-space-space-doubleunit);
+  padding-right: var(--dl-space-space-doubleunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-tripleunit);
+  justify-content: center;
+}
+.norwegia-content-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.norwegia-subheading {
+  left: 33px;
+  bottom: 58px;
+  position: absolute;
+}
+.norwegia-main {
+  width: 1001px;
+  height: 734px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-top: var(--dl-space-space-quadruple);
+  padding-left: var(--dl-space-space-doubleunit);
+  padding-right: var(--dl-space-space-doubleunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-quadruple);
+  justify-content: center;
+  background-color: #fdf6f6;
+}
+.norwegia-text15 {
+  top: 28px;
+  left: 42px;
+  width: 925px;
+  height: 208px;
+  position: absolute;
+  animation: inherit;
+  font-style: normal;
+  font-weight: 800;
+}
+.norwegia-footer {
+  left: 41px;
+  color: var(--dl-color-gray-white);
+  width: 926px;
+  bottom: 27px;
+  height: 466px;
+  display: flex;
+  padding: var(--dl-space-space-tripleunit);
+  position: absolute;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.norwegia-text17 {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  margin: auto;
+  position: absolute;
+}
+.norwegia-text19 {
+  color: #000000;
+}
+.norwegia-text20 {
+  color: #000000;
+}
+.norwegia-text21 {
+  color: #000000;
+}
+.norwegia-text22 {
+  color: #000000;
+}
+.norwegia-text23 {
+  color: #000000;
+}
+.norwegia-footer1 {
+  color: var(--dl-color-gray-white);
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-tripleunit);
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: var(--dl-color-gray-black);
+}
+.norwegia-menu {
+  width: 100%;
+  display: flex;
+  max-width: 1000px;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.norwegia-links-container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.norwegia-container2 {
+  display: flex;
+  align-items: flex-start;
+  margin-left: 100px;
+  flex-direction: column;
+}
+.norwegia-link {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.norwegia-link1 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.norwegia-link2 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.norwegia-container3 {
+  display: flex;
+  align-items: flex-start;
+  margin-left: 100px;
+  flex-direction: column;
+}
+.norwegia-link3 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.norwegia-link4 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.norwegia-link5 {
+  text-decoration: none;
+}
+.norwegia-follow-container {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.norwegia-text24 {
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.norwegia-icons-container {
+  width: 100px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.norwegia-link6 {
+  display: contents;
+}
+.norwegia-icon {
+  fill: var(--dl-color-gray-white);
+  width: 24px;
+  height: 24px;
+}
+.norwegia-link7 {
+  display: contents;
+}
+.norwegia-icon2 {
+  fill: var(--dl-color-gray-white);
+  width: 24px;
+  height: 24px;
+}
+.norwegia-link8 {
+  display: contents;
+}
+.norwegia-icon4 {
+  fill: var(--dl-color-gray-white);
+  width: 24px;
+  height: 24px;
+}
+@media(max-width: 991px) {
+  .norwegia-hero {
+    padding-left: var(--dl-space-space-tripleunit);
+    padding-right: var(--dl-space-space-tripleunit);
+  }
+}
+@media(max-width: 767px) {
+  .norwegia-hero {
+    justify-content: center;
+  }
+  .norwegia-content-container {
+    align-items: center;
+  }
+  .norwegia-text07 {
+    font-size: 2.5rem;
+  }
+  .norwegia-main {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .norwegia-menu {
+    flex-direction: column;
+  }
+  .norwegia-links-container {
+    margin-top: var(--dl-space-space-tripleunit);
+    margin-bottom: var(--dl-space-space-tripleunit);
+    justify-content: space-between;
+  }
+  .norwegia-container2 {
+    margin-left: 0px;
+  }
+}
+@media(max-width: 479px) {
+  .norwegia-text07 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .norwegia-subheading {
+    font-size: 1.3rem;
+    text-align: center;
+  }
+  .norwegia-links-container {
+    margin-top: var(--dl-space-space-doubleunit);
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .norwegia-link {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .norwegia-link1 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .norwegia-link2 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .norwegia-container3 {
+    height: 100%;
+    align-items: flex-start;
+    margin-left: 50px;
+  }
+  .norwegia-link3 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .norwegia-link4 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .norwegia-link5 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .norwegia-follow-container {
+    margin-left: 0px;
+  }
+}

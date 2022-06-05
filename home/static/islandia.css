@@ -1,0 +1,417 @@
+.logowanie-container {
+  display: flex;
+  position: relative;
+}
+.logowanie-image {
+  width: 222px;
+  height: 82px;
+  position: relative;
+  align-self: center;
+  object-fit: cover;
+}
+.logowanie-root-class-name {
+  left: 143px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name1 {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name2 {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name3 {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name4 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name5 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name6 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name7 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name8 {
+  left: 15px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name9 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name10 {
+  left: 45px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name11 {
+  left: 140px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name12 {
+  left: 143px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name13 {
+  left: 140px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name14 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name15 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+
+.islandia-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.islandia-top-container {
+  width: 1050px;
+  height: 501px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url('file:///Users/alicjasipa/Downloads/pexels-ingo-joseph-1755078.jpg');
+  background-position: 0% 40%;
+}
+.islandia-container1 {
+  width: 1080px;
+  height: 177px;
+  display: flex;
+  position: relative;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.islandia-navlink {
+  left: 448px;
+  width: 125px;
+  bottom: 0px;
+  height: 45px;
+  position: absolute;
+  align-self: flex-start;
+  text-align: center;
+  font-family: Poppins;
+  border-style: solid;
+  text-decoration: none;
+}
+.islandia-navlink1 {
+  display: contents;
+}
+.islandia-component {
+  text-decoration: none;
+}
+.islandia-button {
+  left: 594px;
+  width: 125px;
+  bottom: 0px;
+  height: 45px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.islandia-button1 {
+  left: 738px;
+  width: 125px;
+  bottom: 0px;
+  height: 45px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.islandia-text05 {
+  text-align: center;
+}
+.islandia-navlink2 {
+  top: 40px;
+  right: 97px;
+  width: 101px;
+  height: 41px;
+  position: absolute;
+  font-size: 11px;
+  align-self: stretch;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  text-decoration: none;
+}
+.islandia-navlink3 {
+  right: 98px;
+  width: 74px;
+  bottom: 0px;
+  height: 45px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.islandia-select {
+  left: 276px;
+  width: 150px;
+  bottom: 0px;
+  height: 45px;
+  display: flex;
+  z-index: auto;
+  position: absolute;
+  text-align: center;
+  border-color: #000000;
+  border-style: groove;
+  border-width: 1,5;
+  text-decoration: none;
+}
+.islandia-hero {
+  width: 100%;
+  height: 428px;
+  display: flex;
+  opacity: 1;
+  max-width: 100%;
+  align-items: center;
+  padding-top: var(--dl-space-space-tripleunit);
+  padding-left: var(--dl-space-space-doubleunit);
+  padding-right: var(--dl-space-space-doubleunit);
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-tripleunit);
+  justify-content: space-between;
+  background-color: #ffffff;
+}
+.islandia-content-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.islandia-main {
+  width: 1043px;
+  height: 757px;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-quadruple);
+  padding-left: var(--dl-space-space-doubleunit);
+  padding-right: var(--dl-space-space-doubleunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-quadruple);
+  justify-content: flex-start;
+  background-color: #fdf6f6;
+}
+.islandia-text16 {
+  width: 100%;
+  height: 208px;
+  animation: inherit;
+  font-style: normal;
+  font-weight: 800;
+}
+.islandia-text22 {
+  color: var(--dl-color-gray-500);
+  width: 100%;
+  font-style: normal;
+  text-align: left;
+  font-weight: 600;
+}
+.islandia-footer {
+  color: var(--dl-color-gray-white);
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-tripleunit);
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: var(--dl-color-gray-black);
+}
+.islandia-menu {
+  width: 100%;
+  display: flex;
+  max-width: 1000px;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.islandia-links-container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.islandia-container2 {
+  display: flex;
+  align-items: flex-start;
+  margin-left: 100px;
+  flex-direction: column;
+}
+.islandia-link {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.islandia-link1 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.islandia-link2 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.islandia-container3 {
+  display: flex;
+  align-items: flex-start;
+  margin-left: 100px;
+  flex-direction: column;
+}
+.islandia-link3 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.islandia-link4 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.islandia-link5 {
+  text-decoration: none;
+}
+.islandia-follow-container {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.islandia-text29 {
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.islandia-icons-container {
+  width: 100px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.islandia-link6 {
+  display: contents;
+}
+.islandia-icon {
+  fill: var(--dl-color-gray-white);
+  width: 24px;
+  height: 24px;
+}
+.islandia-link7 {
+  display: contents;
+}
+.islandia-icon2 {
+  fill: var(--dl-color-gray-white);
+  width: 24px;
+  height: 24px;
+}
+.islandia-link8 {
+  display: contents;
+}
+.islandia-icon4 {
+  fill: var(--dl-color-gray-white);
+  width: 24px;
+  height: 24px;
+}
+@media(max-width: 991px) {
+  .islandia-hero {
+    padding-left: var(--dl-space-space-tripleunit);
+    padding-right: var(--dl-space-space-tripleunit);
+  }
+}
+@media(max-width: 767px) {
+  .islandia-hero {
+    justify-content: center;
+  }
+  .islandia-content-container {
+    align-items: center;
+  }
+  .islandia-text07 {
+    font-size: 2.5rem;
+  }
+  .islandia-main {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .islandia-menu {
+    flex-direction: column;
+  }
+  .islandia-links-container {
+    margin-top: var(--dl-space-space-tripleunit);
+    margin-bottom: var(--dl-space-space-tripleunit);
+    justify-content: space-between;
+  }
+  .islandia-container2 {
+    margin-left: 0px;
+  }
+}
+@media(max-width: 479px) {
+  .islandia-text07 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .islandia-subheading {
+    font-size: 1.3rem;
+    text-align: center;
+  }
+  .islandia-links-container {
+    margin-top: var(--dl-space-space-doubleunit);
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .islandia-link {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .islandia-link1 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .islandia-link2 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .islandia-container3 {
+    height: 100%;
+    align-items: flex-start;
+    margin-left: 50px;
+  }
+  .islandia-link3 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .islandia-link4 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .islandia-link5 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .islandia-follow-container {
+    margin-left: 0px;
+  }
+}

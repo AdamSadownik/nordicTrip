@@ -1,0 +1,16 @@
+.component3-container {
+  display: flex;
+  position: relative;
+}
+.component3-select {
+  width: 151px;
+  height: 43px;
+  display: flex;
+  z-index: 10;
+  position: relative;
+  text-align: center;
+  border-color: #000000;
+  border-style: groove;
+  border-width: 1,5;
+  text-decoration: none;
+}

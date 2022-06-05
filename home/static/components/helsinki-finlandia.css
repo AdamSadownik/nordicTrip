@@ -1,0 +1,101 @@
+.outline-button-container {
+  display: flex;
+  position: relative;
+}
+.outline-button-button {
+  color: var(--dl-color-gray-black);
+  padding-top: var(--dl-space-space-unit);
+  border-color: var(--dl-color-primary-100);
+  border-width: 1px;
+  padding-left: var(--dl-space-space-doubleunit);
+  border-radius: 50px;
+  padding-right: var(--dl-space-space-doubleunit);
+  padding-bottom: var(--dl-space-space-unit);
+  background-color: var(--dl-color-gray-white);
+}
+
+.helsinki\(finlandia\)-container {
+  width: 300px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.helsinki\(finlandia\)-image {
+  width: 100%;
+  height: 182px;
+  object-fit: cover;
+}
+.helsinki\(finlandia\)-container1 {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-items: center;
+  padding-left: 1em;
+  flex-direction: column;
+}
+.helsinki\(finlandia\)-text {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.helsinki\(finlandia\)-text1 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.helsinki\(finlandia\)-text2 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.helsinki\(finlandia\)-text3 {
+  font-size: 12px;
+  max-width: 250px;
+  margin-bottom: var(--dl-space-space-doubleunit);
+}
+.helsinki\(finlandia\)-navlink {
+  display: contents;
+}
+.helsinki\(finlandia\)-component {
+  text-decoration: none;
+}
+
+
+.helsinki\(finlandia\)-root-class-name2 {
+  left: 25px;
+  bottom: 33px;
+  position: absolute;
+}
+.helsinki\(finlandia\)-root-class-name3 {
+  left: 25px;
+  bottom: 33px;
+  position: absolute;
+}
+.helsinki\(finlandia\)-root-class-name4 {
+  left: 25px;
+  bottom: 33px;
+  position: absolute;
+}
+.helsinki\(finlandia\)-root-class-name5 {
+  left: 25px;
+  bottom: 33px;
+  position: absolute;
+}
+.helsinki\(finlandia\)-root-class-name6 {
+  left: 25px;
+  bottom: 33px;
+  position: absolute;
+}
+@media(max-width: 767px) {
+  .helsinki\(finlandia\)-container {
+    width: 200px;
+  }
+}
+@media(max-width: 479px) {
+  .helsinki\(finlandia\)-container {
+    width: 300px;
+  }
+}

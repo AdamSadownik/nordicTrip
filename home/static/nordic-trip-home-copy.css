@@ -1,0 +1,633 @@
+.logowanie-container {
+  display: flex;
+  position: relative;
+}
+.logowanie-image {
+  width: 222px;
+  height: 82px;
+  position: relative;
+  align-self: center;
+  object-fit: cover;
+}
+.logowanie-root-class-name {
+  left: 143px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name1 {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name2 {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name3 {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name4 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name5 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name6 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name7 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name8 {
+  left: 15px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name9 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name10 {
+  left: 45px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name11 {
+  left: 140px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name12 {
+  left: 143px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name13 {
+  left: 140px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name14 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name15 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+
+.outline-button-container {
+  display: flex;
+  position: relative;
+}
+.outline-button-button {
+  color: var(--dl-color-gray-black);
+  padding-top: var(--dl-space-space-unit);
+  border-color: var(--dl-color-primary-100);
+  border-width: 1px;
+  padding-left: var(--dl-space-space-doubleunit);
+  border-radius: 50px;
+  padding-right: var(--dl-space-space-doubleunit);
+  padding-bottom: var(--dl-space-space-unit);
+  background-color: var(--dl-color-gray-white);
+}
+
+.nordic-trip-home-copy-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  padding-top: var(--dl-space-space-tripleunit);
+  flex-direction: column;
+}
+.nordic-trip-home-copy-container01 {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.nordic-trip-home-copy-navlink {
+  display: contents;
+}
+.nordic-trip-home-copy-component {
+  text-decoration: none;
+}
+.nordic-trip-home-copy-select {
+  left: 382px;
+  width: 150px;
+  bottom: 0px;
+  height: 45px;
+  display: flex;
+  z-index: auto;
+  position: absolute;
+  text-align: center;
+  border-color: #000000;
+  border-style: groove;
+  border-width: 1,5;
+  text-decoration: none;
+}
+.nordic-trip-home-copy-navlink1 {
+  left: 558px;
+  width: 125px;
+  bottom: 0px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-self: flex-start;
+  text-align: center;
+  font-family: Poppins;
+  border-style: solid;
+  flex-direction: row;
+  text-decoration: none;
+}
+.nordic-trip-home-copy-text {
+  align-self: center;
+  text-align: center;
+}
+.nordic-trip-home-copy-button {
+  left: 709px;
+  width: 125px;
+  bottom: 0px;
+  height: 45px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.nordic-trip-home-copy-navlink2 {
+  left: 871px;
+  width: 125px;
+  bottom: 0px;
+  height: 45px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.nordic-trip-home-copy-text06 {
+  text-align: center;
+}
+.nordic-trip-home-copy-navlink3 {
+  left: 1030px;
+  width: 74px;
+  bottom: 0px;
+  height: 45px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.nordic-trip-home-copy-navlink4 {
+  top: 1px;
+  left: 1005px;
+  width: 101px;
+  height: 41px;
+  position: absolute;
+  font-size: 11px;
+  align-self: stretch;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  text-decoration: none;
+}
+.nordic-trip-home-copy-container02 {
+  width: 100%;
+  height: 280px;
+  display: flex;
+  align-items: flex-start;
+  background-color: var(--dl-color-gray-white);
+}
+.nordic-trip-home-copy-container03 {
+  top: 251px;
+  flex: 0 0 auto;
+  left: 123px;
+  width: 985px;
+  height: 112px;
+  display: flex;
+  position: absolute;
+  margin-left: var(--dl-space-space-unit);
+  margin-right: var(--dl-space-space-unit);
+  flex-direction: column;
+}
+.nordic-trip-home-copy-textinput {
+  top: 43px;
+  left: 33px;
+  width: 180px;
+  height: 40px;
+  position: absolute;
+  align-self: stretch;
+}
+.nordic-trip-home-copy-text08 {
+  top: 12px;
+  left: 524px;
+  position: absolute;
+}
+.nordic-trip-home-copy-text09 {
+  top: 10px;
+  left: 274px;
+  position: absolute;
+}
+.nordic-trip-home-copy-textinput1 {
+  top: 40px;
+  left: 270px;
+  width: 180px;
+  height: 40px;
+  position: absolute;
+}
+.nordic-trip-home-copy-textinput2 {
+  top: 41px;
+  left: 521px;
+  width: 180px;
+  height: 40px;
+  position: absolute;
+}
+.nordic-trip-home-copy-button1 {
+  top: 38px;
+  right: 124px;
+  width: 105px;
+  height: 41px;
+  position: absolute;
+  text-align: center;
+}
+.nordic-trip-home-copy-text11 {
+  top: 9px;
+  left: 39px;
+  position: absolute;
+}
+.nordic-trip-home-copy-cards-container {
+  width: 100%;
+  height: 531px;
+  display: flex;
+  grid-gap: var(--dl-space-space-doubleunit);
+  position: relative;
+  flex-wrap: wrap;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.nordic-trip-home-copy-container04 {
+  top: 90px;
+  left: 140px;
+  width: 300px;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: center;
+  flex-direction: column;
+}
+.nordic-trip-home-copy-image {
+  width: 100%;
+  height: 182px;
+  object-fit: cover;
+}
+.nordic-trip-home-copy-container05 {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-items: center;
+  padding-left: 1em;
+  flex-direction: column;
+}
+.nordic-trip-home-copy-text12 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.nordic-trip-home-copy-text13 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.nordic-trip-home-copy-text14 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.nordic-trip-home-copy-text15 {
+  font-size: 12px;
+  max-width: 250px;
+  margin-bottom: var(--dl-space-space-doubleunit);
+}
+.nordic-trip-home-copy-navlink5 {
+  display: contents;
+}
+.nordic-trip-home-copy-component1 {
+  text-decoration: none;
+}
+.nordic-trip-home-copy-container06 {
+  top: 90px;
+  left: 500px;
+  width: 300px;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: center;
+  flex-direction: column;
+}
+.nordic-trip-home-copy-image1 {
+  width: 100%;
+  height: 186px;
+  align-self: stretch;
+  object-fit: cover;
+}
+.nordic-trip-home-copy-container07 {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-items: center;
+  padding-left: 1em;
+  flex-direction: column;
+}
+.nordic-trip-home-copy-text16 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.nordic-trip-home-copy-text17 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.nordic-trip-home-copy-text18 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.nordic-trip-home-copy-text19 {
+  font-size: 12px;
+  max-width: 250px;
+  margin-bottom: var(--dl-space-space-doubleunit);
+}
+.nordic-trip-home-copy-navlink6 {
+  display: contents;
+}
+.nordic-trip-home-copy-component2 {
+  text-decoration: none;
+}
+.nordic-trip-home-copy-container08 {
+  top: 90px;
+  left: 850px;
+  width: 300px;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: center;
+  flex-direction: column;
+}
+.nordic-trip-home-copy-image2 {
+  width: 100%;
+  height: 182px;
+  object-fit: cover;
+}
+.nordic-trip-home-copy-container09 {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-items: center;
+  padding-left: 1em;
+  flex-direction: column;
+}
+.nordic-trip-home-copy-text20 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.nordic-trip-home-copy-text21 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.nordic-trip-home-copy-text22 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.nordic-trip-home-copy-text23 {
+  font-size: 12px;
+  max-width: 250px;
+  margin-bottom: var(--dl-space-space-doubleunit);
+}
+.nordic-trip-home-copy-navlink7 {
+  display: contents;
+}
+.nordic-trip-home-copy-component3 {
+  text-decoration: none;
+}
+.nordic-trip-home-copy-container10 {
+  top: 0px;
+  flex: 0 0 auto;
+  left: 520px;
+  width: 230px;
+  height: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+}
+.nordic-trip-home-copy-text24 {
+  font-size: 29px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+}
+.nordic-trip-home-copy-footer {
+  color: var(--dl-color-gray-white);
+  width: 100%;
+  height: 152px;
+  display: flex;
+  padding: var(--dl-space-space-tripleunit);
+  position: relative;
+  align-self: flex-start;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: var(--dl-color-gray-black);
+}
+.nordic-trip-home-copy-menu {
+  top: 17px;
+  left: 131px;
+  width: 864px;
+  display: flex;
+  position: absolute;
+  max-width: 1920px;
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.nordic-trip-home-copy-links-container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.nordic-trip-home-copy-container11 {
+  display: flex;
+  align-items: flex-start;
+  margin-left: 100px;
+  flex-direction: column;
+}
+.nordic-trip-home-copy-link {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.nordic-trip-home-copy-link1 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.nordic-trip-home-copy-link2 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.nordic-trip-home-copy-container12 {
+  display: flex;
+  align-items: flex-start;
+  margin-left: 100px;
+  flex-direction: column;
+}
+.nordic-trip-home-copy-link3 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.nordic-trip-home-copy-link4 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.nordic-trip-home-copy-link5 {
+  text-decoration: none;
+}
+.nordic-trip-home-copy-follow-container {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.nordic-trip-home-copy-text25 {
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.nordic-trip-home-copy-icons-container {
+  width: 100px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.nordic-trip-home-copy-link6 {
+  display: contents;
+}
+.nordic-trip-home-copy-icon {
+  fill: var(--dl-color-gray-white);
+  width: 24px;
+  height: 24px;
+}
+.nordic-trip-home-copy-link7 {
+  display: contents;
+}
+.nordic-trip-home-copy-icon2 {
+  fill: var(--dl-color-gray-white);
+  width: 24px;
+  height: 24px;
+}
+.nordic-trip-home-copy-link8 {
+  display: contents;
+}
+.nordic-trip-home-copy-icon4 {
+  fill: var(--dl-color-gray-white);
+  width: 24px;
+  height: 24px;
+}
+@media(max-width: 991px) {
+  .nordic-trip-home-copy-cards-container {
+    justify-content: center;
+  }
+}
+@media(max-width: 767px) {
+  .nordic-trip-home-copy-container04 {
+    width: 200px;
+  }
+  .nordic-trip-home-copy-container06 {
+    width: 200px;
+  }
+  .nordic-trip-home-copy-container08 {
+    width: 200px;
+  }
+  .nordic-trip-home-copy-menu {
+    flex-direction: column;
+  }
+  .nordic-trip-home-copy-links-container {
+    margin-top: var(--dl-space-space-tripleunit);
+    margin-bottom: var(--dl-space-space-tripleunit);
+    justify-content: space-between;
+  }
+  .nordic-trip-home-copy-container11 {
+    margin-left: 0px;
+  }
+}
+@media(max-width: 479px) {
+  .nordic-trip-home-copy-container04 {
+    width: 300px;
+  }
+  .nordic-trip-home-copy-container06 {
+    width: 300px;
+  }
+  .nordic-trip-home-copy-container08 {
+    width: 300px;
+  }
+  .nordic-trip-home-copy-links-container {
+    margin-top: var(--dl-space-space-doubleunit);
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .nordic-trip-home-copy-link {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .nordic-trip-home-copy-link1 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .nordic-trip-home-copy-link2 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .nordic-trip-home-copy-container12 {
+    height: 100%;
+    align-items: flex-start;
+    margin-left: 50px;
+  }
+  .nordic-trip-home-copy-link3 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .nordic-trip-home-copy-link4 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .nordic-trip-home-copy-link5 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .nordic-trip-home-copy-follow-container {
+    margin-left: 0px;
+  }
+}

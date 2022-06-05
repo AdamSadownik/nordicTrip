@@ -1,0 +1,424 @@
+.logowanie-container {
+  display: flex;
+  position: relative;
+}
+.logowanie-image {
+  width: 222px;
+  height: 82px;
+  position: relative;
+  align-self: center;
+  object-fit: cover;
+}
+.logowanie-root-class-name {
+  left: 143px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name1 {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name2 {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name3 {
+  left: 3px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name4 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name5 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name6 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name7 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name8 {
+  left: 15px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name9 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name10 {
+  left: 45px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name11 {
+  left: 140px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name12 {
+  left: 143px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name13 {
+  left: 140px;
+  bottom: 1px;
+  position: absolute;
+}
+.logowanie-root-class-name14 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+.logowanie-root-class-name15 {
+  left: 24px;
+  bottom: 0px;
+  position: absolute;
+}
+
+.szwecja-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  
+}
+.szwecja-top-container {
+  width: 1104px;
+  height: 501px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-position: 0% 40%;
+}
+.szwecja-hero {
+  flex: 1;
+  left: 22px;
+  width: 652px;
+  bottom: 4px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  padding-top: var(--dl-space-space-tripleunit);
+  padding-left: var(--dl-space-space-halfunit);
+  padding-right: var(--dl-space-space-halfunit);
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-tripleunit);
+  justify-content: space-between;
+  background-color: #ffffff;
+}
+.szwecja-content-container {
+  display: flex;
+  flex-direction: column;
+}
+.szwecja-container1 {
+  top: 57px;
+  left: -12px;
+  width: 1120px;
+  height: 108px;
+  display: flex;
+  position: absolute;
+  flex-wrap: wrap;
+  align-self: center;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.szwecja-navlink {
+  left: 510px;
+  width: 125px;
+  bottom: 0px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-self: flex-start;
+  text-align: center;
+  font-family: Poppins;
+  border-style: solid;
+  flex-direction: row;
+  text-decoration: none;
+}
+.szwecja-text07 {
+  align-self: center;
+  text-align: center;
+}
+.szwecja-navlink1 {
+  display: contents;
+}
+.szwecja-component {
+  text-decoration: none;
+}
+.szwecja-button {
+  left: 698px;
+  width: 125px;
+  bottom: 0px;
+  height: 45px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.szwecja-navlink2 {
+  left: 871px;
+  width: 125px;
+  bottom: 0px;
+  height: 45px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.szwecja-text13 {
+  text-align: center;
+}
+.szwecja-navlink3 {
+  top: 1px;
+  left: 1005px;
+  width: 101px;
+  height: 41px;
+  position: absolute;
+  font-size: 11px;
+  align-self: stretch;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  text-decoration: none;
+}
+.szwecja-navlink4 {
+  left: 1030px;
+  width: 74px;
+  bottom: 0px;
+  height: 45px;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+}
+.szwecja-select {
+  left: 312px;
+  width: 150px;
+  bottom: 0px;
+  height: 45px;
+  display: flex;
+  z-index: auto;
+  position: absolute;
+  text-align: center;
+  border-color: #000000;
+  border-style: groove;
+  border-width: 1,5;
+  text-decoration: none;
+}
+.szwecja-main {
+  width: 1098px;
+  height: 751px;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-quadruple);
+  padding-left: var(--dl-space-space-doubleunit);
+  padding-right: var(--dl-space-space-doubleunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-quadruple);
+  justify-content: flex-start;
+  background-color: #fdf6f6;
+}
+.szwecja-text15 {
+  width: 100%;
+  height: 208px;
+  animation: inherit;
+  font-style: normal;
+  font-weight: 800;
+}
+.szwecja-text18 {
+  color: var(--dl-color-gray-500);
+  font-style: normal;
+  font-weight: 600;
+}
+.szwecja-footer {
+  color: var(--dl-color-gray-white);
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-tripleunit);
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: var(--dl-color-gray-black);
+}
+.szwecja-menu {
+  width: 100%;
+  display: flex;
+  max-width: 1000px;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.szwecja-links-container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.szwecja-container2 {
+  display: flex;
+  align-items: flex-start;
+  margin-left: 100px;
+  flex-direction: column;
+}
+.szwecja-link {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.szwecja-link1 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.szwecja-link2 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.szwecja-container3 {
+  display: flex;
+  align-items: flex-start;
+  margin-left: 100px;
+  flex-direction: column;
+}
+.szwecja-link3 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.szwecja-link4 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.szwecja-link5 {
+  text-decoration: none;
+}
+.szwecja-follow-container {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.szwecja-text31 {
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.szwecja-icons-container {
+  width: 100px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.szwecja-link6 {
+  display: contents;
+}
+.szwecja-icon {
+  fill: var(--dl-color-gray-white);
+  width: 24px;
+  height: 24px;
+}
+.szwecja-link7 {
+  display: contents;
+}
+.szwecja-icon2 {
+  fill: var(--dl-color-gray-white);
+  width: 24px;
+  height: 24px;
+}
+.szwecja-link8 {
+  display: contents;
+}
+.szwecja-icon4 {
+  fill: var(--dl-color-gray-white);
+  width: 24px;
+  height: 24px;
+}
+@media(max-width: 991px) {
+  .szwecja-hero {
+    padding-left: var(--dl-space-space-tripleunit);
+    padding-right: var(--dl-space-space-tripleunit);
+  }
+}
+@media(max-width: 767px) {
+  .szwecja-hero {
+    justify-content: center;
+  }
+  .szwecja-content-container {
+    align-items: center;
+  }
+  .szwecja-text {
+    font-size: 2.5rem;
+  }
+  .szwecja-main {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .szwecja-menu {
+    flex-direction: column;
+  }
+  .szwecja-links-container {
+    margin-top: var(--dl-space-space-tripleunit);
+    margin-bottom: var(--dl-space-space-tripleunit);
+    justify-content: space-between;
+  }
+  .szwecja-container2 {
+    margin-left: 0px;
+  }
+}
+@media(max-width: 479px) {
+  .szwecja-text {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .szwecja-subheading {
+    font-size: 1.3rem;
+    text-align: center;
+  }
+  .szwecja-links-container {
+    margin-top: var(--dl-space-space-doubleunit);
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .szwecja-link {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .szwecja-link1 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .szwecja-link2 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .szwecja-container3 {
+    height: 100%;
+    align-items: flex-start;
+    margin-left: 50px;
+  }
+  .szwecja-link3 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .szwecja-link4 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .szwecja-link5 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .szwecja-follow-container {
+    margin-left: 0px;
+  }
+}

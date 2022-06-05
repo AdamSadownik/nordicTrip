@@ -278,8 +278,9 @@
 }
 .szwecja-links-container {
   display: flex;
-  align-items: center;
-  flex-direction: row;
+  align-items: flex-start;
+  margin-bottom: 16px;
+  flex-direction: column;
   justify-content: space-between;
 }
 .szwecja-container2 {

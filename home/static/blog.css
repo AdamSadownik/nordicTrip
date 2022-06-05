@@ -300,7 +300,6 @@
 }
 .blog-image3 {
   top: 498px;
-  left: 60px;
   width: 988px;
   height: 550px;
   opacity: 1;
@@ -392,6 +391,4 @@
   fill: var(--dl-color-gray-white);
   width: 24px;
   height: 24px;
-}
-
 }

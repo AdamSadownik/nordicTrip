@@ -10,11 +10,11 @@ def index(request):
 def islandia(request):
     return render(request, 'islandia.html')
 
-def dania(request):
-    return render(request, 'dania.html')
-
 def szwecja(request):
     return render(request, 'szwecja.html')
+
+def finlandia(request):
+    return render(request, 'finlandia.html')
 
 def norwegia(request):
     return render(request, 'norwegia.html')

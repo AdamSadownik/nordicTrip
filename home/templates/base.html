@@ -134,7 +134,7 @@
             <i class="fa fa-caret-down"></i>
         </button>
         <div class="dropdown-content" id="myDropdown">
-            <a href="{% url 'dania' %}">Dania</a>
+            <a href="{% url 'finlandia' %}">Finlandia</a>
             <a href="{% url 'islandia' %}">Islandia</a>
             <a href="{% url 'norwegia' %}">Norwegia</a>
             <a href="{% url 'szwecja' %}">Szwecja</a>
@@ -147,10 +147,10 @@
 
     <div id="blueDIV">
         {% if user.is_authenticated %}
-        <a class="nordic-trip-home-button1 button" href="{% url 'logout' %}">Wyloguj</a>
+        <a class="button" href="{% url 'logout' %}">Wyloguj</a>
         {% else %}
-        <a class="nordic-trip-home-button1 button" href="{% url 'sign_up' %}">Zarejestruj</a>
-        <a class="nordic-trip-home-button2 button" href="{% url 'login' %}">Zaloguj</a>
+        <a class="button" href="{% url 'sign_up' %}">Zarejestruj</a>
+        <a class="button" href="{% url 'login' %}">Zaloguj</a>
         {% endif %}
     </div>
 

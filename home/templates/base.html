@@ -107,6 +107,9 @@
   right: 0px;
 }
 
+ #logo {
+     padding: 0;
+ }
 
 
 
@@ -133,7 +136,7 @@
 
 
         <div class="logowanie-container logowanie-root-class-name11">
-            <img alt="image" class="logowanie-image" src="{% static 'public/playground_assets/nordictriplogo.png' %}">
+            <a href="{% url 'index' %}" id="logo" ><img alt="image" class="logowanie-image" src="{% static 'public/playground_assets/nordictriplogo.png' %}"></a>
             <div class="dropdown">
                 <button class="dropbtn" onclick="myFunction()">Destynacje
                     <i class="fa fa-caret-down"></i>

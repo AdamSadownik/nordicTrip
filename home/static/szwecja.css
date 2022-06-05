@@ -15,7 +15,7 @@
   position: absolute;
 }
 .logowanie-root-class-name1 {
-  left: 3px;
+  left: 143px;
   bottom: 1px;
   position: absolute;
 }
@@ -100,13 +100,14 @@
   
 }
 .szwecja-top-container {
-  width: 1104px;
+  width: 100%;
   height: 501px;
   display: flex;
   position: relative;
   align-items: center;
   flex-direction: column;
   background-size: cover;
+  background-image: url('file:///Users/alicjasipa/Downloads/pexels-ingo-joseph-1755078.jpg');
   background-position: 0% 40%;
 }
 .szwecja-hero {

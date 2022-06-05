@@ -2,35 +2,34 @@
 {% load static %}
 
 {% block content %}
-    <div>
-      <link href="{% static 'norwegia.css' %}" rel="stylesheet" />
-      <div class="norwegia-container">
-        <div class="norwegia-top-container">
-          <div class="norwegia-hero">
+<link href="{% static 'norwegia.css' %}" rel="stylesheet"/>
+<div class="norwegia-container">
+    <div class="norwegia-top-container">
+        <div class="norwegia-hero">
             <div class="norwegia-content-container">
-              <h1 class="heading norwegia-text12">Norwegia</h1>
-              <h2 class="subheading norwegia-subheading">
-                <span>państwo, gdzie zdobycze cywilizacji</span>
-                <br />
-                <span>spotykają się z potęgą natury</span>
-                <br />
-                <span></span>
-              </h2>
+                <h1 class="heading norwegia-text12">Norwegia</h1>
+                <h2 class="subheading norwegia-subheading">
+                    <span>państwo, gdzie zdobycze cywilizacji</span>
+                    <br/>
+                    <span>spotykają się z potęgą natury</span>
+                    <br/>
+                    <span></span>
+                </h2>
             </div>
-          </div>
         </div>
-        <div id="main-section" class="norwegia-main">
-          <h1 class="norwegia-text15">
+    </div>
+    <div class="norwegia-main" id="main-section">
+        <h1 class="norwegia-text15">
             <span>
               To właśnie przyroda przyciąga turystów do Norwegii najbardziej -
               dzika, wyrosła w umiarkowanie chłodnym klimacie, w bogactwie
               czystych wód, czyli warunkach sprzyjających rozwojowi życia.
             </span>
-          </h1>
-          <div class="norwegia-footer">
+        </h1>
+        <div class="norwegia-footer">
             <span class="norwegia-text17">
               <span>​</span>
-              <br />
+              <br/>
               <span class="norwegia-text19">
                 Norwegia to państwo położone w Europie Północnej na Półwyspie
                 Skandynawskim. Graniczy ze Szwecją, Finlandią i Rosją. Ze
@@ -42,9 +41,9 @@
                 Skandynawskie. Średnia wysokość terenu wynosi 460 m, a 32%
                 powierzchni znajduje się ponad granicą drzew.
               </span>
-              <br />
+              <br/>
               <span class="norwegia-text20"></span>
-              <br />
+              <br/>
               <span class="norwegia-text21">
                 W południowej oraz środkowej części kraju panuje klimat
                 umiarkowany morski. Natomiast tereny północne położone za kołem
@@ -53,9 +52,9 @@
                 Zimą w okręgach Finnmark i Troms temperatura może spaść poniżej
                 -40 °C.
               </span>
-              <br />
+              <br/>
               <span class="norwegia-text22">​</span>
-              <br />
+              <br/>
               <span class="norwegia-text23">
                 Lasy, fiordy i niezapomniane krajobrazy, a także niespotykane
                 nigdzie gatunki zwierząt - to bogactwo Norwegii. Podróżując po
@@ -69,8 +68,10 @@
                 który warto zobaczyć.
               </span>
             </span>
-          </div>
         </div>
+    </div>
+</div>
+<script src="https://unpkg.com/@teleporthq/teleport-custom-scripts"></script>
 
 
-        {% endblock %}
+{% endblock %}

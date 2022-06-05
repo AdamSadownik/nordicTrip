@@ -2,145 +2,108 @@
 {% load static %}
 
 {% block content %}
-<div id="main-section" class="nordic-trip-home-main">
-          <div class="nordic-trip-home-cards-container">
-            <a href="finlandia.html" class="nordic-trip-home-navlink4">
-              <div class="finland-container">
-                <img
-                  alt="image"
-                  src="{% static 'public/playground_assets/anna-hunko-akvefdj2q_o-unsplash-200h.jpg' %}"
-                  class="finland-image"
-                />
-                <div class="finland-container1">
-                  <span class="finland-text"><span>Finland</span></span>
-                  <span class="finland-text1"><span></span></span>
-                  <span class="finland-text2"><span></span></span>
+
+    <div>
+      <link href="{% static 'nordic-trip-home.css' %}" rel="stylesheet" />
+
+      <div class="nordic-trip-home-container">
+        <div class="nordic-trip-home-container02">
+          <div class="nordic-trip-home-container03">
+            <span class="nordic-trip-home-text08">Miejsce</span>
+            <span class="nordic-trip-home-text09"><span>Daty</span></span>
+            <span class="nordic-trip-home-text11">Goscie</span>
+          </div>
+          <div class="nordic-trip-home-container04">
+            <input
+              type="text"
+              placeholder="Dokad jedziesz?"
+              class="nordic-trip-home-textinput input"
+            />
+            <input
+              type="text"
+              placeholder="Kiedy jedziesz?"
+              class="nordic-trip-home-textinput1 input"
+            />
+            <input
+              type="text"
+              placeholder="Liczba gosci"
+              class="nordic-trip-home-textinput2 input"
+            />
+            <button class="nordic-trip-home-button1 button">Buszuj</button>
+          </div>
+        </div>
+        <div class="nordic-trip-home-container05">
+          <span class="nordic-trip-home-text12">Last minute!</span>
+        </div>
+        <div class="nordic-trip-home-cards-container">
+          <div class="nordic-trip-home-container06">
+            <img
+              alt="image"
+              src="https://tourscanner.com/blog/wp-content/uploads/2021/08/things-to-do-in-Stockholm.jpg"
+              class="nordic-trip-home-image"
+            />
+            <div class="nordic-trip-home-container07">
+              <span class="nordic-trip-home-text13">Sztokholm</span>
+              <span>20.06-23.06-2022</span>
+              <span class="nordic-trip-home-text14">2000 / 1500 zł</span>
+              <span class="nordic-trip-home-text15"></span>
+              <span class="nordic-trip-home-text16"></span>
+              <a href="finlandia.html" class="nordic-trip-home-navlink4">
+                <div class="outline-button-container">
+                  <button class="outline-button-button button">
+                    <span>Odwiedź</span>
+                  </button>
                 </div>
-              </div>
-            </a>
-            <a href="finlandia.html" class="finland-navlink">
-              <div class="outline-button-container">
-                <button class="outline-button-button button">
-                  <span>Discover place</span>
-                </button>
-              </div>
-            </a>
+              </a>
+            </div>
+          </div>
+          <div class="nordic-trip-home-container08">
+            <img
+              alt="image"
+              src="https://www.flytap.com/-/media/Flytap/new-tap-pages/destinations/europe/norway/oslo/destinations-oslo-banner-mobile-1024x553.jpg"
+              class="nordic-trip-home-image1"
+            />
+            <div class="nordic-trip-home-container09">
+              <span class="nordic-trip-home-text17">Oslo</span>
+              <span>10.06-12.06-2022</span>
+              <span class="nordic-trip-home-text18">1200 / 999 zł</span>
+              <span class="nordic-trip-home-text19"></span>
+              <span class="nordic-trip-home-text20"></span>
+              <a href="finlandia.html" class="nordic-trip-home-navlink5">
+                <div class="outline-button-container">
+                  <button class="outline-button-button button">
+                    <span>Odwiedź</span>
+                  </button>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="nordic-trip-home-container10">
+            <img
+              alt="image"
+              src="https://media.architecturaldigest.com/photos/5c9e699c1aeb991ed9e6da2b/16:9/w_2560%2Cc_limit/GettyImages-183996236.jpg"
+              class="nordic-trip-home-image2"
+            />
+            <div class="nordic-trip-home-container11">
+              <span class="nordic-trip-home-text21">Helsinki</span>
+              <span>8.06-10.06-2022</span>
+              <span class="nordic-trip-home-text22">800 / 599 zł</span>
+              <span class="nordic-trip-home-text23"></span>
+              <span class="nordic-trip-home-text24"></span>
+              <a href="finlandia.html" class="nordic-trip-home-navlink6">
+                <div class="outline-button-container">
+                  <button class="outline-button-button button">
+                    <span>Odwiedź</span>
+                  </button>
+                </div>
+              </a>
+            </div>
           </div>
         </div>
 
-        <div class="nordic-trip-home-container3">
-          <img
-            alt="image"
-            src="https://wallbeing.com/2272-thickbox_default/grafika-joker.jpg"
-            class="nordic-trip-home-image"
-          />
-          <div class="nordic-trip-home-container4">
-            <span class="nordic-trip-home-text08"><span>Islandia</span></span>
-            <span class="nordic-trip-home-text10"></span>
-            <span class="nordic-trip-home-text11"></span>
-            <a href="finlandia.html" class="nordic-trip-home-navlink5">
-              <div class="outline-button-container">
-                <button class="outline-button-button button">
-                  <span>Discover place</span>
-                </button>
-              </div>
-            </a>
-          </div>
-        </div>
-        <div class="finland-container">
-          <img
-            alt="image"
-            src="{% static 'public/playground_assets/anna-hunko-akvefdj2q_o-unsplash-200h.jpg' %}"
-            class="finland-image"
-          />
-          <div class="finland-container1">
-            <span class="finland-text"><span>Cluj-Napoca</span></span>
-            <span class="finland-text1"><span></span></span>
-            <span class="finland-text2"><span></span></span>
-            <a href="finlandia.html" class="finland-navlink">
-              <div class="outline-button-container">
-                <button class="outline-button-button button">
-                  <span>Discover place</span>
-                </button>
-              </div>
-            </a>
-          </div>
-        </div>
-        <div class="finland-container">
-          <img
-            alt="image"
-            src="{% static 'public/playground_assets/anna-hunko-akvefdj2q_o-unsplash-200h.jpg' %}"
-            class="finland-image"
-          />
-          <div class="finland-container1">
-            <span class="finland-text"><span>Paris</span></span>
-            <span class="finland-text1"><span></span></span>
-            <span class="finland-text2"><span></span></span>
-            <a href="finlandia.html" class="finland-navlink">
-              <div class="outline-button-container">
-                <button class="outline-button-button button">
-                  <span>Discover place</span>
-                </button>
-              </div>
-            </a>
-          </div>
-        </div>
-        <div class="finland-container">
-          <img
-            alt="image"
-            src="{% static 'public/playground_assets/anna-hunko-akvefdj2q_o-unsplash-200h.jpg' %}"
-            class="finland-image"
-          />
-          <div class="finland-container1">
-            <span class="finland-text"><span>Amsterdam</span></span>
-            <span class="finland-text1"><span></span></span>
-            <span class="finland-text2"><span></span></span>
-            <a href="finlandia.html" class="finland-navlink">
-              <div class="outline-button-container">
-                <button class="outline-button-button button">
-                  <span>Discover place</span>
-                </button>
-              </div>
-            </a>
-          </div>
-        </div>
-        <div class="finland-container">
-          <img
-            alt="image"
-            src="{% static 'public/playground_assets/anna-hunko-akvefdj2q_o-unsplash-200h.jpg' %}"
-            class="finland-image"
-          />
-          <div class="finland-container1">
-            <span class="finland-text"><span>Barcelona</span></span>
-            <span class="finland-text1"><span></span></span>
-            <span class="finland-text2"><span></span></span>
-            <a href="finlandia.html" class="finland-navlink">
-              <div class="outline-button-container">
-                <button class="outline-button-button button">
-                  <span>Discover place</span>
-                </button>
-              </div>
-            </a>
-          </div>
-        </div>
       </div>
-      <div class="finland-container">
-        <img
-          alt="image"
-          src="{% static 'public/playground_assets/anna-hunko-akvefdj2q_o-unsplash-200h.jpg' %}"
-          class="finland-image"
-        />
-        <div class="finland-container1">
-          <span class="finland-text"><span>Finland</span></span>
-          <span class="finland-text1"><span></span></span>
-          <span class="finland-text2"><span></span></span>
-          <a href="finlandia.html" class="finland-navlink">
-            <div class="outline-button-container">
-              <button class="outline-button-button button">
-                <span>Discover place</span>
-              </button>
-            </div>
-          </a>
-        </div>
-      </div>
+    </div>
+    <script src="https://unpkg.com/@teleporthq/teleport-custom-scripts"></script>
+
+
 {% endblock %}

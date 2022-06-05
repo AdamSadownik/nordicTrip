@@ -25,6 +25,9 @@ def blog(request):
 def oferta_specjalna(request):
     return render(request, 'oferta_specjalna.html')
 
+def last_minute(request):
+    return render(request, 'last-minute.html')
+
 def onas(request):
     return render(request, 'onas.html')
 

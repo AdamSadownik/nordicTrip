@@ -1,6 +1,5 @@
 .logowanie-container {
   display: flex;
-  position: relative;
 }
 .logowanie-image {
   width: 222px;
@@ -67,7 +66,6 @@
 .logowanie-root-class-name11 {
   left: 140px;
   bottom: 1px;
-  position: absolute;
 }
 .logowanie-root-class-name12 {
   left: 143px;
@@ -120,7 +118,6 @@
   align-items: center;
   flex-direction: column;
   background-size: cover;
-  background-image: url('file:///Users/alicjasipa/Downloads/pexels-ingo-joseph-1755078.jpg');
   background-position: 0% 40%;
 }
 .finlandia-navbar {

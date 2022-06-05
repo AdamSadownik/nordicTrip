@@ -1,6 +1,5 @@
 .logowanie-container {
   display: flex;
-  position: relative;
 }
 .logowanie-image {
   width: 222px;
@@ -45,19 +44,25 @@
   position: absolute;
 }
 .logowanie-root-class-name7 {
-  left: 24px;
-  bottom: 0px;
-  position: absolute;
+  top: 36px;
+  left: 364px;
+  position: static;
+  align-self: center;
 }
 .logowanie-root-class-name8 {
   left: 15px;
   bottom: 0px;
-  position: absolute;
+  position: static;
+  align-self: flex-end;
+  margin-left: 25px;
 }
 .logowanie-root-class-name9 {
-  left: 24px;
+  left: 0px;
+  right: 0px;
   bottom: 0px;
-  position: absolute;
+  position: static;
+  align-self: flex-end;
+  margin-left: 25px;
 }
 .logowanie-root-class-name10 {
   left: 45px;
@@ -67,7 +72,6 @@
 .logowanie-root-class-name11 {
   left: 140px;
   bottom: 1px;
-  position: absolute;
 }
 .logowanie-root-class-name12 {
   left: 143px;
@@ -89,6 +93,14 @@
   bottom: 0px;
   position: absolute;
 }
+.logowanie-root-class-name16 {
+  left: 140px;
+  bottom: 1px;
+  position: static;
+  align-self: flex-end;
+  margin-left: 100px;
+  margin-right: mixed;
+}
 
 .szwecja-container {
   width: 100%;
@@ -97,7 +109,6 @@
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
-  
 }
 .szwecja-top-container {
   width: 1104px;
@@ -107,6 +118,7 @@
   align-items: center;
   flex-direction: column;
   background-size: cover;
+
   background-position: 0% 40%;
 }
 .szwecja-hero {
@@ -161,9 +173,6 @@
   align-self: center;
   text-align: center;
 }
-.szwecja-navlink1 {
-  display: contents;
-}
 .szwecja-component {
   text-decoration: none;
 }
@@ -176,7 +185,7 @@
   text-align: center;
   text-decoration: none;
 }
-.szwecja-navlink2 {
+.szwecja-navlink1 {
   left: 871px;
   width: 125px;
   bottom: 0px;
@@ -188,7 +197,7 @@
 .szwecja-text13 {
   text-align: center;
 }
-.szwecja-navlink3 {
+.szwecja-navlink2 {
   top: 1px;
   left: 1005px;
   width: 101px;
@@ -201,7 +210,7 @@
   font-weight: 700;
   text-decoration: none;
 }
-.szwecja-navlink4 {
+.szwecja-navlink3 {
   left: 1030px;
   width: 74px;
   bottom: 0px;
@@ -234,8 +243,8 @@
   padding-right: var(--dl-space-space-doubleunit);
   flex-direction: column;
   padding-bottom: var(--dl-space-space-quadruple);
+  background-size: cover;
   justify-content: flex-start;
-  background-color: #fdf6f6;
 }
 .szwecja-text15 {
   width: 90%;

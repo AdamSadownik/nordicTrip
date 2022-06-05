@@ -3,8 +3,10 @@
 
 {% block content %}
 
-<div xmlns:background-image="http://www.w3.org/1999/xhtml" xmlns:url>
-      <link href="./onas.css" rel="stylesheet" />
+
+    <div xmlns:background-image="http://www.w3.org/1999/xhtml" xmlns:url>
+      <link href="{% static 'onas.css' %}" rel="stylesheet" />
+
 
       <div class="onas-container">
 
@@ -46,4 +48,6 @@
       </div>
     </div>
     <script src="https://unpkg.com/@teleporthq/teleport-custom-scripts"></script>
+
+
 {% endblock %}

@@ -1,6 +1,5 @@
 .logowanie-container {
   display: flex;
-  position: relative;
 }
 .logowanie-image {
   width: 222px;
@@ -67,7 +66,6 @@
 .logowanie-root-class-name11 {
   left: 140px;
   bottom: 1px;
-  position: absolute;
 }
 .logowanie-root-class-name12 {
   left: 143px;

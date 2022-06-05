@@ -11,6 +11,6 @@ urlpatterns = [
     path('finlandia/', views.finlandia, name='finlandia'),
     path('blog/', views.blog, name='blog'),
     path('oferta_specjalna/', views.oferta_specjalna, name='oferta_specjalna'),
-    path('last_minute/', views.oferta_specjalna, name='last-minute'),
+    path('last_minute/', views.last_minute, name='last_minute'),
     path('about_us/', views.onas, name='onas'),
 ]
